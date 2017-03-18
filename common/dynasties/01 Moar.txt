@@ -1,0 +1,29 @@
+25061 = {
+	name="Carlovin"
+	culture = old_frankish
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 35
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+}
+1060001 = {
+	name="Martin"
+	culture = occitan
+}
+1060002 = {
+	name="Gagnon"
+	culture = norman
+}
+1060003 = {
+	name="Valiquette"
+	culture = norman
+}

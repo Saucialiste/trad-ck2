@@ -1,0 +1,49 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;
+RETINUE_OF;Retinue of $CHARACTER$;Garde de $CHARACTER$;Gefolge von $CHARACTER$;;Séquito de $CHARACTER$;;;;;;;;;x;;
+USED_IN_RETINUES;Used in Retinues: §R-$LOSS$%§!;Troupes utilisées dans la garde : §R-$LOSS$%§!;Im Gefolge verwendet: §R-$LOSS$%§!;;Usado en séquitos: §R-$LOSS$%§!;;;;;;;;;x;;
+RETINUES_NOT_REINFORCING;§YRetinues are set to not reinforce.§!;§YLa Garde ne bénéficie d'aucun renforcement.§!;§YGefolge ist nicht auf Verstärken gesetzt.§!;;§YSéquitos configurados para no reforzarse.§! ;;;;;;;;;x;;
+RETINUES_HALF_REINFORCING;§YRetinues are set to reinforce at half speed.§!;§YRenforcement mitigé de la Garde.§!;§YGefolge ist auf Verstärken mit halber Geschwindigkeit gesetzt.§!;;§YSéquitos configurados para reforzarse a media velocidad.§! ;;;;;;;;;x;;
+RETINUES_FULL_REINFORCING;§YRetinues are set to reinforce at maximum speed.§!;§YRenforcement maximal de la Garde.§!;§YGefolge ist auf Verstärken mit voller Geschwindigkeit gesetzt.§!;;§YSéquitos configurados para reforzarse a máxima velocidad.§! ;;;;;;;;;x;;
+RETINUES_HALF_REINFORCING_DESC;This halves the reinforce cost.\n( §Y$GROWTH$%§! of the retinue will reinforce per month ).;Ceci diminue de moitié le coût de renforcement.\n(§Y$GROWTH$%§! de la Garde sera renforcé chaque mois).;Dies halbiert die Verstärkungskosten.\n( §Y$GROWTH$%§! des Gefolges wird monatlich verstärkt ).;;Reduce el coste de refuerzo a la mitad.\n( El §Y$GROWTH$%§! del séquito se reforzará cada mes).;;;;;;;;;x;;
+RETINUES_FULL_REINFORCING_DESC;This means you will pay full reinforce cost.\n( §Y$GROWTH$%§! of the retinue will reinforce per month );Cela signifie que vous paierez la totalité du coût de renforcement.\n(§Y$GROWTH$%§! de la Garde sera renforcé chaque mois).;Dies bedeutet, dass Ihr die vollen Verstärkungskosten bezahlen werdet.\n( §Y$GROWTH$%§! des Gefolges wird monatlich verstärkt );;Supone pagar el coste total de refuerzo.\n( El §Y$GROWTH$%§! del séquito se reforzará cada mes).;;;;;;;;;x;;
+RETINUES_NOT_REINFORCING_BUTTON;§YSet Retinues to not reinforce.§!;§YParamétrer le non-renforcement de la Garde.§!;§YGefolge auf Nicht-verstärken gesetzt.§!;;§YConfigurar séquitos para que no se refuercen.§! ;;;;;;;;;x;;
+RETINUES_HALF_REINFORCNIG_BUTTON;§YSet Retinues to reinforce at half speed.§!;§YParamétrer le renforcement mitigé de la Garde.§!;§YGefolge auf Verstärken mit halber Geschwindigkeit gesetzt.§!;;§YConfigurar séquitos para que se refuercen a media velocidad.§! ;;;;;;;;;x;;
+RETINUES_FULL_REINFORCING_BUTTON;§YSet Retinues to reinforce at maximum speed.§!;§YParamétrer le renforcement maximal de la Garde.§!;§YGefolge auf Verstärken mit voller Geschwindigkeit gesetzt.§!;;§YConfigurar séquitos para que se refuercen a máxima velocidad.§! ;;;;;;;;;x;;
+MIL_RETINUES;Retinues;Garde;Gefolge;;Séquitos;;;;;;;;;x;;
+TECH_EFFECT_ON_RETINUES;Retinue percent from Technology: §Y$PERCENT$%§! of Realm Manpower;Pourcentage de la Garde recrutée par le biais de la technologie : §Y$PERCENT$%§! des effectifs du royaume;Gefolge-Prozent aus Technologie: §Y$PERCENT$%§! der militärischen Stärke im Reich;;Porcentaje tecnológico del séquito: §Y$PERCENT$%§! Del poderío del territorio;;;;;;;;;x;;
+MIN_RETINUE;Minimum Retinue for all landed characters: $MIN_RET$;Garde minimum pour tous les seigneurs : $MIN-RET$;Minimales Gefolge für alle gelandeten Charaktere: $MIN_RET$;;Séquito mínimo para todos los personajes terrestres: $MIN_RET$;;;;;;;;;;;x
+BUY_RETINUE;Create a §Y$NAME$§! retinue, this will start out almost empty but reinforce up to the specified size.;Créez une garde §Y$NAME$§!, au départ, elle ne comportera que quelques hommes mais elle gagnera en puissance jusqu'à la taille requise.;Erstellt ein §Y$NAME$§!-Gefolge, anfangs wird dies zwar fast leer sein, doch dann bis zu einer bestimmten Größe aufgestockt.;;Crea un séquito §Y$NAME$§!, que comenzará casi vacío pero se reforzará hasta el tamaño especificado.;;;;;;;;;;;x
+RETTYPE_INF1;Shock;de Choc;Schock;;Choque;;;;;;;;;;;x
+RETTYPE_INF2;Defence;de Défense;Verteidigung;;Defensa;;;;;;;;;;;x
+RETTYPE_CAV1;Cavalry;de Cavalerie;Kavallerie;;Caballería;;;;;;;;;;;x
+RETTYPE_SKIR1;Skirmish;d'Escarmouche;Gefecht;;Escaramuza;;;;;;;;;;;x
+RETINUE_UPKEEP;Retinue Upkeep;Frais d'entretien de la Garde;Gefolge-Abgaben;;Mantenimiento del séquito;;;;;;;;;;;x
+LIEGE_EXPENSE;Liege;Suzerain;Lehnsherr;;Señor;;;;;;;;;;;x
+CONFIRM_DISBAND_NO_RET;\nNo Retinues will be disbanded.;\nLa Garde ne sera pas dissoute.;\nEs wird kein Gefolge aufgelöst.;;\nNo se disolverá ningún séquito.;;;;;;;;;;;x
+CONFIRM_DISBAND_RET;\n§RAll Retinue troops will be disbanded!§!;\nToutes les troupes de la Garde seront retirées.;\nAlle Gefolge-Truppen werden ihre Waffen niederlegen.;;\nTodas las tropas de los séquitos se retirarán.;;;;;;;;;;;x
+CANNOT_BUY_RET_ROOM;\nYou cannot create this retinue, your maximum retinue cap has been reached.;\nVous ne pouvez pas créer cette unité, l'effectif maximal de la Garde a été atteint.;\nIhr könnt diesen Trupp nicht bilden, da die maximale Anzahl erreicht ist.;;\nNo puedes crear este séquito porque has alcanzado tu capacidad máxima de séquito.;;;;;;;;;x;;
+CANNOT_BUY_RET_WEALTH;\nYou cannot create this retinue, you cannot afford it.;\nVous ne pouvez pas créer cette unité, vous n'avez pas assez d'argent.;\nIhr könnt diesen Trupp nicht bilden, da Euch die Geldmittel fehlen.;;\nNo puedes crear este séquito, pues no puedes mantenerlo.;;;;;;;;;x;;
+RETINUE_CAP_USAGE;Current Retinue cap usage: §Y$SIZE$§!\n;Effectifs de la Garde : §Y$SIZE$§!\n;Derzeit aktives Gefolge: §Y$SIZE$§!\n;;Uso actual de capacidad de séquito: §Y$SIZE$§!\n;;;;;;;;;x;;
+RETINUE_CAP;Retinue Cap: §Y$SIZE$§!\n;Taille maximum de la Garde : §Y$SIZE$§!\n;Maximales Gefolge: §Y$SIZE$§!\n;;Capacidad de séquito: §Y$SIZE$§!\n;;;;;;;;;x;;
+RETINUE_CAP_USAGE_BUY;Retinue Cap Usage: §Y$SIZE$§!\n;Taille maximum de la Garde : §Y$SIZE$§!\n;Aktivierte Kapazität: §Y$SIZE$§!\n;;Uso de capacidad de séquito: §Y$SIZE$§!\n;;;;;;;;;x;;
+RETTYPE_CUL_ENG;Longbow;d'Arc;Langbogen;;Arco Largo;;;;;;;;;x;;
+RETTYPE_CUL_BALT;Baltic Warrior;de la Baltique;Baltische Krieger;;Guerrero báltico;;;;;;;;;x;;
+RETTYPE_CUL_ALTAIC;Horse Archer;d'Archers à cheval;Ber. Bogenschützen;;Arquero a caballo;;;;;;;;;x;;
+RETTYPE_CUL_FRANK_NOR_GER;Knight;Chevalieresque;Ritter;;Caballero;;;;;;;;;x;;
+RETTYPE_CUL_IBER;Caballero;Caballero;Caballero;;Caballero español;;;;;;;;;x;;
+RETTYPE_CUL_ITA;Pike;de Piquiers;Pikeniere;;Piquero;;;;;;;;;x;;
+RETTYPE_CUL_RUS;Druzhina;Droujiina;Druschina;;Druzhina;;;;;;;;;x;;
+RETTYPE_CUL_HUNG;Hussar;de Hussards;Husaren;;Húsar;;;;;;;;;x;;
+RETTYPE_CUL_ARAB;Camel Warrior;de Guerriers à dos de chameau;Kamelreiterei;;Guerrero a camello;;;;;;;;;x;;
+RETTYPE_CUL_BYZ;Cataphract;Cataphractaire;Kataphrakten;;Catafracto;;;;;;;;;x;;
+RETTYPE_CUL_IRISH;Gallowglass;de Gallow-glass;Gallowglass;;Gallowglass;;;;;;;;;x;;
+RETTYPE_CUL_ETHIO;Ethiopian Skirmisher;d'escarmouche éthiopienne;Äthiopische Scharmützler;;Hostigador etíope;;;;;;;;;x;;
+RETTYPE_CUL_W_AFR;Free Warrior;de Guerriers libres;Krieger ohne Gefolgschaft;;Guerrero libre;;;;;;;;;x;;
+RETTYPE_CUL_SOUTH_SLA;Gusar;de Cavaliers hongrois;Gusaren;;Gúsar;;;;;;;;;x;;
+RETTYPE_CUL_DUTCH;Goedendag Militia;de Milice godendac;Goedendag-Miliz;;Milicia de Goedendag;;;;;;;;;x;;
+CREATE_RETINUE_EFFECT;$WHO$ gets a §Y$RETINUE$§! retinue;$WHO$ acquiert une garde §Y$RETINUE$§!.;$WHO$ erhält §Y$RETINUE$§! Gefolgschaftstruppen;;$WHO$ consigue un séquito de §Y$RETINUE$§!;;;;;;;;;x;;
+CAN_BUY_RETINUE_TRIGGER_NOT;$WHO$ does not have at least §Y$NEED$§! retinue space;$WHO$ ne possède pas les effectifs §Y$NEED$§! pour la garde.;$WHO$ liegt weniger als §Y$NEED$§! unterhalb des Maximums;;$WHO$ no tiene al menos §Y$NEED$§! espacio de séquito;;;;;;;;;x;;
+CAN_BUY_RETINUE_TRIGGER;$WHO$ has at least §Y$NEED$§! retinue space;$WHO$ possède au moins §Y$NEED$§! l'effectif de la garde.;$WHO$ liegt wenigstens §Y$NEED$§! unter dem Maximum;;$WHO$ tiene al menos §Y$NEED$§! espacio de séquito;;;;;;;;;x;;
+TECH_RECRUIT_DESC;§Y$BONUS$ Retinues;Garde §Y$BONUS$;§Y$BONUS$ Gefolge;;§Y$BONUS$ Séquitos;;;;;;;;;x;;
+RETINUE_EXPL;§YRetinues§!\nThese numbers are the current size of your Retinue and the maintenance you pay for it.;§YGarde§!\nCes chiffres indiquent la taille actuelle de votre garde et le coût de maintenance qu'elle engendre.;§YGefolge§!\nDie Größe Eures Gefolges sowie die Kosten, die für den Unterhalt entstehen.;;§YSéquitos§!\nEstas cifras son el número actual de tu Séquito y el costo de mantenimiento de los mismos.;;;;;;;;;x;;
+#RETINUE_EXPL_DEL;Your Retinue is a standing army consisting of §Y500-man§! regiments. Unlike Army Levies, retinues are always on the map and reinforce slowly. Retinues only cost maintenance while reinforcing.\nThe maximum number of retinue regiments you can field depends on your §YMilitary Organization§! technology and the size of all the levies in your realm.;Votre garde est en fait une armée permanente composée de régiments de §Y500 hommes§!. Contrairement à des levées militaires, la garde demeure présente sur la carte et se renforcent progressivement. Une garde ne vous coûte que le maintien de ses effectifs.;Euer Gefolge ist eine stehende Armee aus §Y500-Mann§!-Regimentern. Anders als die Wehrfähigen sind die Gefolgschaftstruppen immer aktiv und füllen sich langsam wieder auf. Gefolgschaftstruppen kosten nur dann Unterhalt, wenn ihre Besetzung unterhalb des M;;Tu Séquito es un ejército de regimientos de §Y500 hombres§! . A diferencia de las Levas, los séquitos están siempre en el mapa y se refuerzan lentamente. Los séquitos solo cuestan mantenimiento mientras se refuerzan.\nEl número máximo de regimientos de sé;;;;;;;;;x;;
