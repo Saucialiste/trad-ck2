@@ -1,0 +1,17 @@
+#CODE;ENGLISH;FRENCH;;;;;;;;;;;;x
+d_miaphysite;The Miaphysite Papacy;La Prédication de Saint-Marc;;;;;;;;;;;;x
+d_miaphysite_adj;Coptic Papal;Copte;;;;;;;;;;;;x
+COPTIC_POPE;Coptic Pope;Pape;;;;;;;;;;;;x
+INTERACTION_CANNOT_REVOKE_LAST_TEMPLE_OFF_REL_HEAD;Cannot revoke the last Temple Holding from your religious head;Vous ne pouvez pas révoquer le dernier fief religieux d'un dirigeant de religion;;;;;;;;;;;;x
+d_monophysite;The Monophysite Papacy;Catholicossat apostolique;;;;;;;;;;;;x
+d_monophysite_adj;Monophysite Papal;monophysite;;;;;;;;;;;;x
+MONOPHYSITE_POPE;Monophysite Pope;Catholicos;;;;;;;;;;;;x
+d_nestorian_adj;Eastern Patriarchal;du Patriarcat d'Orient;;;;;;;;;;;;x
+d_monothelite_adj;Monothelite Patriarchal;du Patriarcat Monothélite;;;;;;;;;;;;x
+MONOTHELITE_PATRIARCH;Monothelite Patriarch;Patriarche;;;;;;;;;;;;x
+INTERACTION_TITLE_NOT_CONTESTED;Title cannot be the target or justification for any ongoing war;Ce titre ne peut être pris pour cible ou faire l'objet ou la justification d'un guerre en cours;;;;;;;;;;;;x
+WAR_NAME_IMPERIAL;$ORDER$$FIRST_ADJ$ Imperial Reconquest of $OTHER_TITLE$;$ORDER$ Reconquête impériale $FIRST_ADJ$ de $OTHER_TITLE$;;;;;;;;;;;;x
+imperial_reconquest_desc;The lost territory of the Roman Empire must be reclaimed! §Y$CLAIMANT$§! can use this Casus Belli to seize all titles held by §Y$TARGET$§! within the de jure §Y$TITLE$§!.;Le territoire perdu par l'Empire Romain doit être repris ! §Y$CLAIMANT$§! peut utiliser ce Casus Belli pour s'emparer de tous les tires détenus par §Y$TARGET$§! qui appartiennent de jure à §Y$TITLE$§!.;;;;;;;;;;;;x
+duke_female_russian;Grand Princess;Grand princesse;;;;;;;;;;;;x
+king_iranian;Shah;Muluk;;;;;;;;;;;;x
+kingdom_of_iranian;Shahdom of;Malicat de;;;;;;;;;;;;x
