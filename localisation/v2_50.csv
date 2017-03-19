@@ -1,7 +1,0 @@
-#CODE;ENGLISH;FRENCH;;;;;;;;;;;;x
-obj_become_king_desc;[This.GetTitledFirstName] wants to become [Root.GetKingQueen] of [This.Capital.Kingdom.GetName]. If pagan, it allows [This.GetObjectPronoun] the unlimited use of the Subjugation Casus Belli within the kingdom. If the Fabricate Claims councillor mission is available, it may acquire a claim on [This.Capital.Kingdom.GetName] with this ambition. There is also a reduced cost for creating the [This.Capital.Kingdom.GetTier] if it does not yet exist.;[This.GetTitledFirstName] désire devenir [Root.GetKingQueen] de [This.Capital.Kingdom.GetName]. Si elle est païenne, cela permet à/au [This.GetObjectPronoun] l'utilisation illimitée de l'assujettissement casus belli au sein du royaume. ;;;;;;;;;;;;x
-STOP_ASSAULT_DESC;Stop assaulting the holding;Cesser l'assaut du fief;;;;;;;;;;;;x
-experimenter;Direct Leader;Meneur direct;;;;;;;;;;;;x
-experimenter_desc;This character favors a direct approach and prefers leaving advanced manoeuvres to others.;Ce personnage favorise une approche directe, laissant les plans recherchés à d'autres.;;;;;;;;;;;;x
-EVTDESC1029;Something I thought I had suppressed and finally subdued has risen inside me. Unchaste thoughts have begun to appear in my mind;Une pulsion que je pensais avoir contenue pour toujours a ressurgi en moi. Je crains de voir mon célibat voler en éclat à tout moment.;;;;;;;;;;;;x
-ANY_ALLIED_CHARACTER_STARTS;Any Non-Aggression Pact Character;N'importe quel personnage allié;;;;;;;;;;;;x
