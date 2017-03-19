@@ -1,0 +1,23 @@
+#CODE;ENGLISH;FRENCH;;;;;;;;;;;;x
+d_venetian_navy;Adriatic Galleys;galères adriatiques;;;;;;;;;;;;x
+d_genoese_navy;Ligurian Galleys;galères ligures;;;;;;;;;;;;x
+d_hanseatic_navy;Baltic Cogs;cogues baltes;;;;;;;;;;;;x
+d_hanseatic_navy_adj;Baltic;balte;;;;;;;;;;;;x
+d_frisian_navy;North Sea Cogs;cogues de la mer du Nord;;;;;;;;;;;;x
+d_frisian_navy_adj;North Sea;de la mer du Nord;;;;;;;;;;;;x
+d_finnish_band;Finnish Band;bande finlandaise;;;;;;;;;;;;x
+d_finnish_band_adj;Finnish;Finlandaise;;;;;;;;;;;;x
+d_lithuanian_band;Lithuanian Band;bande lituanienne;;;;;;;;;;;;x
+d_lithuanian_band_adj;Lithuanian;Lituanien;;;;;;;;;;;;x
+d_abyssinian_band;Abyssinian Band;bande abyssinienne;;;;;;;;;;;;x
+d_scottish_band;Scottish Band;bande écossaise;;;;;;;;;;;;x
+d_scottish_band_adj;Scottish;Écossais;;;;;;;;;;;;x
+d_irish_band;Irish Band;bande irlandaise;;;;;;;;;;;;x
+d_irish_band_adj;Irish;Irlandais;;;;;;;;;;;;x
+d_alan_band;Alan Riders;cavaliers alains;;;;;;;;;;;;x
+d_alan_band_adj;Alan;Alain;;;;;;;;;;;;x
+d_nubian_band;Nubian Band;bande nubienne;;;;;;;;;;;;x
+k_genoa;Genoa;Gènes;;;;;;;;;;;;x
+d_lancaster_adj_welsh;Rhegedian;rheged;;;;;;;;;;;;x
+succ_ultimogeniture_desc;This succession law is the opposite of the far more common Primogeniture. With Ultimogeniture, the youngest child inherits.;Cette règle de dévolution successorale est l’inverse de la primogéniture habituelle. Dans le cas de l’ultimogéniture, c’est le plus jeune enfant qui devient l’héritier.;;;;;;;;;;;;x
+succ_tanistry_desc;The ruler and all vassals at one and two ranks below can nominate an heir - the Tanist - from among the members of the ruler's dynasty. Vassals will tend to favor older members from other branches of the family, especially claimants.;Le dirigeant et tous les vassaux qui sont un ou deux rangs plus bas peuvent nommer un héritier, le taniste, parmi les membres de la dynastie du dirigeant. Les vassaux auront tendance à favoriser des membres plus âgés issus d’autres branches de la Famille, et plus particulièrement les prétendants.;;;;;;;;;;;;x
