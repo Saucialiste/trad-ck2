@@ -1,5 +1,0 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-TITLE_CREATION_HAS_OWNER;You are not allowed to create or usurp titles while you hold a Temporary title;Toute création ou usurpation de titres sera impossible tant que vous détiendrez un titre temporaire.;Ihr dürft dieser Fraktion zur Zeit nicht beitreten.;;No te está permitido unirte a esta facción ahora.;;;;;;;;;x
-REBEL_TITLE;[Recipient.PrimaryTitle.GetAdjective] Revolt;Rébellion [Recipient.PrimaryTitle.GetAdjective];[Recipient.PrimaryTitle.GetAdjective] Revolte;;Revuelta [Recipient.PrimaryTitle.GetAdjective];;;;;;;;;x
-opinion_rebel_leader;Leader of the Rebellion;Chef de la rébellion;Führer der Rebellion;;Líder de la Rebelión;;;;;;;;;x
-TITLE_HAS_NO_HOLDER;Cannot Revoke as this Title has no Holder.;Il est impossible de révoquer un titre n'étant pas détenu.;Aberkennung nicht möglich, da Titel keinen Besitzer hat.;;No puedes revocar el título al no tener titular;;;;;;;;;x
