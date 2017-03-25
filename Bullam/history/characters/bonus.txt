@@ -1,0 +1,276 @@
+218300 = {
+	name = Vincent
+	dynasty = 1060001 #Martin
+	dna="bfmaesfgccf"
+	properties="0e0cck00000"
+	religion = catholic
+	culture = occitan
+
+	mother = 218301
+	
+	diplomacy = 5
+	martial = 5
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	
+	trait = quick
+	trait = legit_bastard
+	trait = temperate
+	trait = envious
+	trait = proud
+	trait = shy
+	trait = trusting
+	
+	754.12.27 = {
+		birth = yes
+	}
+	769.1.2 = {
+		death = yes
+	}
+}
+
+218301 = {
+	name = Chantal
+	dna="ckhgegkifcw"
+	properties="ae00ic00000"
+	religion = catholic
+	culture = old_frankish
+	female = yes
+	
+	diplomacy = 5
+	martial = 5
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	
+	trait = naive_appeaser
+	trait = poet
+	trait = lustful
+	trait = kind
+	trait = humble
+	trait = content
+	
+	727.5.21 = {
+		birth = yes
+	}
+	755.8.13 = {
+		employer = 218300
+	}
+	768.7.25 = {
+		add_spouse = 218302
+	}
+	769.1.2 = {
+		death = yes
+	}
+}
+218302 = {
+	name = Stephan
+	dna="dlamhsldbcz"
+	properties="cm0chk00000"
+	religion = catholic
+	culture = old_frankish
+	
+	diplomacy = 15
+	martial = 5
+	stewardship = 5
+	intrigue = 10
+	learning = 5
+	
+	trait = amateurish_plotter
+	trait = syphilitic
+	trait = slow
+	trait = drunkard
+	trait = gluttonous
+	trait = wroth
+	trait = deceitful
+	trait = craven
+	trait = paranoid
+	trait = master_schemer
+	
+	734.7.25 = {
+		birth = yes
+	}
+	755.8.13 = {
+		employer = 218300
+	}
+	768.7.25 = {
+		add_spouse = 218301
+	}
+	769.1.2 = {
+		death = yes
+	}
+}
+218303 = {
+	name = Vincent
+	dynasty = 1060001 #Martin
+	dna="bfmaesfgccf"
+	properties="0e0cck00000"
+	religion = catholic
+	culture = occitan
+	
+	diplomacy = 5
+	martial = 5
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+
+	trait = thrifty_clerk	
+	trait = quick
+	trait = legit_bastard
+	trait = depressed
+	trait = lustful
+	trait = greedy
+	trait = proud
+	trait = craven
+	
+	847.12.27 = {
+		birth = yes
+	}
+	866.12.22 = {
+		effect = {
+			add_lover = 218304
+		}
+	}
+	867.1.2 = {
+		death = yes
+	}
+}
+218304 = {
+	name = Ariane
+	dynasty = 1060002 #Gagnon
+	dna="bdmeijgeebb"
+	properties="ce0cik00000"
+	religion = cathar
+	culture = norman
+	female = yes
+	
+	diplomacy = 5
+	martial = 5
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+
+	trait = underhanded_rogue
+	
+	trait = slow
+	trait = seductress
+	trait = attractive
+	trait = lustful
+	trait = temperate
+	trait = charitable
+	trait = proud
+	trait = arbitrary
+	trait = trusting
+	trait = craven
+	
+	847.11.4 = {
+		birth = yes
+	}
+	866.12.22 = {
+		employer = 218303
+	}
+	867.1.2 = {
+		death = yes
+	}
+}
+218305 = {
+	name = Vincent
+	dynasty = 1060001 #Martin
+	dna="bfmaesfgccf"
+	properties="0e0cck00000"
+	religion = catholic
+	culture = occitan
+	
+	diplomacy = 5
+	martial = 5
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+
+	trait = midas_touched	
+	trait = quick
+	trait = legit_bastard
+	trait = chaste
+	trait = slothful
+	trait = wroth
+	trait = humble
+	trait = gregarious
+	trait = just
+	trait = administrator
+	
+	1036.12.27 = {
+		birth = yes
+	}
+	1065.12.29 = {
+		add_spouse = 218306
+	}
+	1099.1.2 = {
+		death = yes
+	}
+}
+218306 = {
+	name = Laurianne
+	dynasty = 1060003 #Valiquette
+	female = yes
+	dna="bilkbmaicai"
+	properties="cc0cik00000"
+	religion = catholic
+	culture = norman
+	
+	diplomacy = 5
+	martial = 5
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+
+	trait = charismatic_negotiator
+	trait = quick
+	trait = strong
+	trait = chaste
+	trait = charitable
+	trait = honest
+	trait = glutonnous
+	trait = shy
+	trait = just
+	trait = game_master
+	trait = scarred
+	
+	1037.10.12 = {
+		birth = yes
+	}
+	1065.12.29 = {
+		add_spouse = 218305
+		employer = 218305
+	}
+	1099.1.2 = {
+		death = yes
+	}
+}
+218307 = {
+	name = Joséphine
+	dynasty = 1060001 #Martin
+	female = yes
+	dna= "bimabsaicci"
+	properties="cc0cik00000"
+	religion = catholic
+	culture = occitan
+
+	mother = 218306
+	father = 218305
+	
+	diplomacy = 5
+	martial = 5
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+
+	trait = quick
+	
+	1065.08.23 = {
+		birth = yes
+		employer = 218305
+	}
+	1099.1.2 = {
+		death = yes
+	}

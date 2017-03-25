@@ -1,2 +1,0 @@
-#CODE;ENGLISH;FRENCH;;;;;;;;;;;;x
-DECLARE_WAR_INTERACTION_5;§RWhile attacking a fellow [Recipient.Religion.GetName] [Recipient.Religion.GetGroupName], we will lose §Y$PIETY$§R Piety per month!§!;§REn attaquant un fidèle [Recipient.Religion.GetName] [Recipient.Religion.GetGroupName], nous perdrons §Y$PIETY$§R points de piété par mois !§!;;;;;;;;;;;;x

@@ -1,0 +1,6 @@
+#CODE;ENGLISH;FRENCH;;;;;;;;;;;;x
+vice_royalty_2_desc;Enables Kingdom and Duchy Viceroyalties.;Les royaumes et les duchés peuvent être confiés à des adminstrateurs viagers.;;;;;;;;;;;;x
+duke_vice_royalties;Allows Kingdom and Duchy Viceroyalties;La délégation des royaumes et duchés est permise.;;;;;;;;;;;;x
+temple_king_pagan_group;King-Priest;Hiérophante;;;;;;;;;;;;x
+CHRONICLE_WAR_WON;[From.GetTitledNameWithNick] won the war against [Root.GetTitledNameWithNick].;[From.GetTitledNameWithNick] a remporté la guerre contre [Root.GetTitledNameWithNick].;;;;;;;;;;;;x
+CHRONICLE_WAR_LOST;[From.GetTitledNameWithNick] lost the war against [Root.GetTitledNameWithNick].;[From.GetTitledNameWithNick] a été vaincu par [Root.GetTitledNameWithNick].;;;;;;;;;;;;x
