@@ -1,10 +1,14 @@
 # Une bulle de France au nord d'un continent
 
 Module de traduction vers le français (du Québec) de Crusader Kings 2
-* Compatibilité vérifiée avec la version 2.6.2
+* Compatibilité vérifiée avec la version 2.7.0.2
 * Auteur principal : Vincent Martin
 
 Historique des versions précédentes
+
+Version 2.0
+- Migration vers Github
+- Ajustement des fichiers
 
 Version 16.XII (v.1.5.1)
 - Ajustement des fichiers modifiés depuis 2015
