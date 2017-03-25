@@ -1,156 +1,156 @@
 #CODE;ENGLISH;FRENCH;;;;;;;;;;;;x
-AIREASON_OPINION;Opinion of Â§Y[GetTitledFirstName]Â§!;Opinion de Â§Y[GetTitledFirstName]Â§!;;;;;;;;;;;;x
-AIREASON_REALPOLITIK;Political Concerns;ConsidÃ©rations politiques;;;;;;;;;;;;x
-AIREASON_REALPOLITIK_VS;Political Concerns vs Â§Y[GetTitledFirstName]Â§!;Opposition Ã  Â§Y[GetTitledFirstName]Â§!;;;;;;;;;;;;x
-AIREASON_WRONG_CULTURE;Foreign Culture;DiffÃ©rence culturelle;;;;;;;;;;;;x
+AIREASON_OPINION;Opinion of §Y[GetTitledFirstName]§!;Opinion de §Y[GetTitledFirstName]§!;;;;;;;;;;;;x
+AIREASON_REALPOLITIK;Political Concerns;Considérations politiques;;;;;;;;;;;;x
+AIREASON_REALPOLITIK_VS;Political Concerns vs §Y[GetTitledFirstName]§!;Opposition à §Y[GetTitledFirstName]§!;;;;;;;;;;;;x
+AIREASON_WRONG_CULTURE;Foreign Culture;Différence culturelle;;;;;;;;;;;;x
 AIREASON_STRENGTH;Power;Puissance;;;;;;;;;;;;x
 AIREASON_IS_RULER;Is a Ruler;Est un seigneur;;;;;;;;;;;;x
-AIREASON_SAME_DYNASTY_AS_TARGET;Same Dynasty as Â§Y[GetTitledFirstName]Â§!;MÃªme dynastie que Â§Y[GetTitledFirstName]Â§!;;;;;;;;;;;;x
-AIREASON_SUCC_LOWLY_RANK;Â§Y[GetTitledFirstName]Â§! is of too lowly rank for a regular marriage;Â§Y[GetTitledFirstName]Â§! est de trop basse extraction  pour un mariage classique.;;;;;;;;;;;;x
-AIREASON_POWER_TO_PRESS_CLAIMS;Â§Y[GetTitledFirstName]Â§! has the power to press my claims;Â§Y[GetTitledFirstName]Â§! peut faire valoir mes revendications.;;;;;;;;;;;;x
-AIREASON_UNABLE_PRESS_CLAIMS;Â§Y[GetTitledFirstName]Â§! is unable to press my claims;Â§Y[GetTitledFirstName]Â§! ne pourra pas faire valoir mes revendications.;;;;;;;;;;;;x
-AIREASON_WANTS_FREEDOM;Wants Freedom;Veut Ãªtre libre;;;;;;;;;;;;x
+AIREASON_SAME_DYNASTY_AS_TARGET;Same Dynasty as §Y[GetTitledFirstName]§!;Même dynastie que §Y[GetTitledFirstName]§!;;;;;;;;;;;;x
+AIREASON_SUCC_LOWLY_RANK;§Y[GetTitledFirstName]§! is of too lowly rank for a regular marriage;§Y[GetTitledFirstName]§! est de trop basse extraction  pour un mariage classique.;;;;;;;;;;;;x
+AIREASON_POWER_TO_PRESS_CLAIMS;§Y[GetTitledFirstName]§! has the power to press my claims;§Y[GetTitledFirstName]§! peut faire valoir mes revendications.;;;;;;;;;;;;x
+AIREASON_UNABLE_PRESS_CLAIMS;§Y[GetTitledFirstName]§! is unable to press my claims;§Y[GetTitledFirstName]§! ne pourra pas faire valoir mes revendications.;;;;;;;;;;;;x
+AIREASON_WANTS_FREEDOM;Wants Freedom;Veut être libre;;;;;;;;;;;;x
 AIREASON_GOLD_IS_GOOD;Gold is Good;J'adore l'or;;;;;;;;;;;;x
-AIREASON_GOT_MORE_ADVANCED_PLOT;Already leading a similar Plot;MÃ¨ne dÃ©jÃ  un complot similaire;;;;;;;;;;;;x
-AIREASON_AGE_POWER_DIFFERENCE;Age vs Suitor Power;DisparitÃ© entre l'Ã¢ge et la puissance du soupirant;;;;;;;;;;;;x
-AIREASON_INFERTILE;Unlikely to have Children;FertilitÃ© douteuse;;;;;;;;;;;;x
-alert_build_province_improvement_instant;Â§YYou can build county improvements!Â§!;Â§YVous pouvez amÃ©liorer la province !Â§!;;;;;;;;;;;;x
-alert_revoltrisk_in_provinces_delayed;The following counties run a risk of having a revolt:\n$LIST$;Les provinces suivantes risquent la rÃ©volte.\n$LIST$.;;;;;;;;;;;;x
-alert_court_not_filled_instant;Â§YOpen Council PositionsÂ§!;Â§YCombler des postes au conseilÂ§!;;;;;;;;;;;;x
-alert_court_not_filled_delayed;The following spots need to be filled:\n$LIST$\nÂ§GClick to go to Court ViewÂ§!;Les postes suivants  peuvent Ãªtre comblÃ©s :\n$LIST$\nÂ§GCliquez pour accÃ©der Ã  la vue Cour.Â§!;;;;;;;;;;;;x
-alert_should_nominate_heir_instant;Â§YSuccessor NominationÂ§!;Â§YNomination dâ€™un hÃ©ritierÂ§!;;;;;;;;;;;;x
-alert_should_nominate_heir_delayed;You should nominate successors for these titles:\n$LIST$;Vous devriez dÃ©signer un hÃ©ritier pour les titres suivants :\n$LIST$;;;;;;;;;;;;x
+AIREASON_GOT_MORE_ADVANCED_PLOT;Already leading a similar Plot;Mène déjà un complot similaire;;;;;;;;;;;;x
+AIREASON_AGE_POWER_DIFFERENCE;Age vs Suitor Power;Disparité entre l'âge et la puissance du soupirant;;;;;;;;;;;;x
+AIREASON_INFERTILE;Unlikely to have Children;Fertilité douteuse;;;;;;;;;;;;x
+alert_build_province_improvement_instant;§YYou can build county improvements!§!;§YVous pouvez améliorer la province !§!;;;;;;;;;;;;x
+alert_revoltrisk_in_provinces_delayed;The following counties run a risk of having a revolt:\n$LIST$;Les provinces suivantes risquent la révolte.\n$LIST$.;;;;;;;;;;;;x
+alert_court_not_filled_instant;§YOpen Council Positions§!;§YCombler des postes au conseil§!;;;;;;;;;;;;x
+alert_court_not_filled_delayed;The following spots need to be filled:\n$LIST$\n§GClick to go to Court View§!;Les postes suivants  peuvent être comblés :\n$LIST$\n§GCliquez pour accéder à la vue Cour.§!;;;;;;;;;;;;x
+alert_should_nominate_heir_instant;§YSuccessor Nomination§!;§YNomination d’un héritier§!;;;;;;;;;;;;x
+alert_should_nominate_heir_delayed;You should nominate successors for these titles:\n$LIST$;Vous devriez désigner un héritier pour les titres suivants :\n$LIST$;;;;;;;;;;;;x
 WAR_NAME_CLAIM;$ORDER$$FIRST_ADJ$ Claim on $OTHER_TITLE$ War;$ORDER$ Guerre de revendication $FIRST_ADJ$ sur $OTHER_TITLE$;;;;;;;;;;;;x
-CB_NAME_SENIORITY_SUCCESSION_LAW;Seniority Succession Law;Imposer le SÃ©niorat pour la succession;;;;;;;;;;;;x
-WAR_NAME_SENIORITY_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Seniority;$ORDER$ Guerre civile $SECOND_ADJ$ de la dÃ©volution sÃ©nioriale;;;;;;;;;;;;x
-CB_NAME_PRIMOGENITURE_SUCCESSION_LAW;Primogeniture Succession Law;Imposer la PrimogÃ©niture pour la succession;;;;;;;;;;;;x
-WAR_NAME_PRIOGENITURE_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Primogeniture;$ORDER$ Guerre civile $SECOND_ADJ$ de la dÃ©volution primogÃ©nitale;;;;;;;;;;;;x
-CB_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;Elective Monarchy Succession Law;Imposer la monarchie Ã©lective;;;;;;;;;;;;x
-WAR_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Elective Monarchy;$ORDER$ Guerre civile $SECOND_ADJ$ de la dÃ©volution Ã©lectorale;;;;;;;;;;;;x
+CB_NAME_SENIORITY_SUCCESSION_LAW;Seniority Succession Law;Imposer le Séniorat pour la succession;;;;;;;;;;;;x
+WAR_NAME_SENIORITY_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Seniority;$ORDER$ Guerre civile $SECOND_ADJ$ de la dévolution sénioriale;;;;;;;;;;;;x
+CB_NAME_PRIMOGENITURE_SUCCESSION_LAW;Primogeniture Succession Law;Imposer la Primogéniture pour la succession;;;;;;;;;;;;x
+WAR_NAME_PRIOGENITURE_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Primogeniture;$ORDER$ Guerre civile $SECOND_ADJ$ de la dévolution primogénitale;;;;;;;;;;;;x
+CB_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;Elective Monarchy Succession Law;Imposer la monarchie élective;;;;;;;;;;;;x
+WAR_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Elective Monarchy;$ORDER$ Guerre civile $SECOND_ADJ$ de la dévolution électorale;;;;;;;;;;;;x
 CB_NAME_RELIGIOUS;Holy War for [Title.GetBaseName];Guerre Sainte en [Title.GetName];;;;;;;;;;;;x
 WAR_NAME_RELIGIOUS;$ORDER$$FIRST_ADJ$ Holy War for $OTHER_TITLE$;$ORDER$ Guerre Sainte $FIRST_ADJ$ en $OTHER_TITLE$;;;;;;;;;;;;x
-CB_NAME_EXCOMMUNICATED_RULER;Excommunicated ruler;Suzerain excommuniÃ©;;;;;;;;;;;;x
-WAR_NAME_EXCOMMUNICATED_RULER;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Excommunication War;$ORDER$ Guerre $FIRST_ADJ$ dâ€™excommunication $SECOND_ADJ$;;;;;;;;;;;;x
-WAR_NAME_INDEPENDENCE;$ORDER$War of $FIRST_ADJ$ Independence;$ORDER$ Guerre dâ€™indÃ©pendance $FIRST_ADJ$;;;;;;;;;;;;x
+CB_NAME_EXCOMMUNICATED_RULER;Excommunicated ruler;Suzerain excommunié;;;;;;;;;;;;x
+WAR_NAME_EXCOMMUNICATED_RULER;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Excommunication War;$ORDER$ Guerre $FIRST_ADJ$ d’excommunication $SECOND_ADJ$;;;;;;;;;;;;x
+WAR_NAME_INDEPENDENCE;$ORDER$War of $FIRST_ADJ$ Independence;$ORDER$ Guerre d’indépendance $FIRST_ADJ$;;;;;;;;;;;;x
 CB_NAME_OVERTHROWRULER;Overthrow ruler;Renverser le Suzerain;;;;;;;;;;;;x
-WAR_NAME_OVERTHROWRULER;$ORDER$War against the Tyranny of $DEFENDER$;$ORDER$ RÃ©volte contre le joug de $DEFENDER$;;;;;;;;;;;;x
+WAR_NAME_OVERTHROWRULER;$ORDER$War against the Tyranny of $DEFENDER$;$ORDER$ Révolte contre le joug de $DEFENDER$;;;;;;;;;;;;x
 CB_NAME_SUCCESSION;Dispute Succession;Querelle de succession;;;;;;;;;;;;x
 WAR_NAME_SUCCESSION;$ORDER$$SECOND_ADJ$ Succession Crisis;$ORDER$ Guerre de Succession $SECOND_ADJ$;;;;;;;;;;;;x
-ON_CB_ADD_DESC;Â§YWhen we declare war:Â§W\n;Â§YLorsque nous dÃ©clarons la guerre :Â§W\n;;;;;;;;;;;;x
-ON_CB_SUCCESS_DESC;Â§YIf we win the war:Â§W\n;Â§YSi nous l'emportons :Â§W\n;;;;;;;;;;;;x
-ON_CB_FAIL_DESC;Â§YIf we make a white peace:Â§W\n;Â§YSi nous concluons une paix blanche :Â§W\n;;;;;;;;;;;;x
-ON_CB_REVERSEDEMAND_DESC;Â§YIf we lose the war:Â§W\n;Â§YSi nous sommes dÃ©faits :Â§W\n;;;;;;;;;;;;x
-ON_CB_ATTACKERDEATH_DESC;Â§YIf leader of attacking alliance dies:Â§W\n;Â§YSi le chef de lâ€™alliance attaquante meurt :Â§W\n;;;;;;;;;;;;x
-ON_CB_DEFENDERDEATH_DESC;Â§YIf leader of defending alliance dies:Â§W\n;Â§YSi le chef de lâ€™alliance dÃ©fenderesse meurt :Â§W\n;;;;;;;;;;;;x
-ON_CB_THIRDPARTY_DESC;Â§YIf $CHARACTER$ dies:Â§W\n;Â§YSi $CHARACTER$ meurt :Â§W\n;;;;;;;;;;;;x
+ON_CB_ADD_DESC;§YWhen we declare war:§W\n;§YLorsque nous déclarons la guerre :§W\n;;;;;;;;;;;;x
+ON_CB_SUCCESS_DESC;§YIf we win the war:§W\n;§YSi nous l'emportons :§W\n;;;;;;;;;;;;x
+ON_CB_FAIL_DESC;§YIf we make a white peace:§W\n;§YSi nous concluons une paix blanche :§W\n;;;;;;;;;;;;x
+ON_CB_REVERSEDEMAND_DESC;§YIf we lose the war:§W\n;§YSi nous sommes défaits :§W\n;;;;;;;;;;;;x
+ON_CB_ATTACKERDEATH_DESC;§YIf leader of attacking alliance dies:§W\n;§YSi le chef de l’alliance attaquante meurt :§W\n;;;;;;;;;;;;x
+ON_CB_DEFENDERDEATH_DESC;§YIf leader of defending alliance dies:§W\n;§YSi le chef de l’alliance défenderesse meurt :§W\n;;;;;;;;;;;;x
+ON_CB_THIRDPARTY_DESC;§YIf $CHARACTER$ dies:§W\n;§YSi $CHARACTER$ meurt :§W\n;;;;;;;;;;;;x
 CB_NAME_CLAIM_ALL;Press all Claims;Appuyer toute les revendications;;;;;;;;;;;;x
 WAR_NAME_CLAIM_LIEGE;$ATTACKER$'s $ORDER$War for $OTHER_TITLE$;$ORDER$ Guerre de $ATTACKER$ pour : $OTHER_TITLE$;;;;;;;;;;;;x
-claim_desc;This Casus Belli can be used by Â§Y$CLAIMANT$Â§! to press the claim on the Â§Y$TITLE$Â§!;Ce casus belli peut Ãªtre utilisÃ© par le(la) Â§Y$CLAIMANT$Â§! pour appuyer sa revendication vis-Ã -vis de Â§Y$TITLE$Â§!;;;;;;;;;;;;x
-claim_on_liege_desc;This Casus Belli can be used by Â§Y$CLAIMANT$Â§! to press the claim on the Â§Y$TITLE$Â§!;Ce casus belli peut Ãªtre utilisÃ© par le(la) Â§Y$CLAIMANT$Â§! pour appuyer sa revendication vis-Ã -vis de Â§Y$TITLE$Â§!;;;;;;;;;;;;x
-other_claim_on_liege_desc;This Casus Belli can be used by Â§Y$PRESSER$Â§! to press Â§Y$CLAIMANT$'sÂ§! claim on the Â§Y$TITLE$Â§!;Ce casus belli peut Ãªtre utilisÃ© par le(la) Â§Y$PRESSER$Â§! pour appuyer la revendication de Â§Y$CLAIMANT$Â§! vis-Ã -vis du(de la) Â§Y$TITLE$Â§!;;;;;;;;;;;;x
-invasion_desc;Â§Y$CLAIMANT$Â§! has been granted the right to invade the Â§Y$TITLE$Â§!. If successful, the titles to all currently occupied holdings will be seized.;Â§Y$CLAIMANT$Â§! a dÃ©sormais le droit dâ€™envahir le Â§Y$TITLE$Â§!. En cas de rÃ©ussite, les titres de toutes les fiefs actuellement occupÃ©es seront saisis.;;;;;;;;;;;;x
-excommunicated_ruler_desc;Â§Y$TARGET$Â§! has been excommunicated, a just cause for war if ever there was one!;Â§Y$TARGET$Â§! a Ã©tÃ© excommuniÃ©(e), un motif de guerre lÃ©gitime sâ€™il en est !;;;;;;;;;;;;x
-bid_for_independence_desc;Â§Y$CLAIMANT$Â§! can attempt to declare independence from Â§Y$TARGET$Â§!;Le(la) Â§Y$CLAIMANT$Â§! peut tenter de dÃ©clarer son indÃ©pendance de : Â§Y$TARGET$Â§!;;;;;;;;;;;;x
-overthrow_ruler_desc;Â§Y$TARGET$Â§! has tried and failed to imprison Â§Y$CLAIMANT$Â§!, which has resulted in an armed conflict;Â§Y$TARGET$Â§! a essayÃ© en vain dâ€™emprisonner Â§Y$CLAIMANT$Â§!, ce qui a dÃ©clenchÃ© un conflit armÃ©.;;;;;;;;;;;;x
-dejure_county_claim_desc;The Â§Y$TITLE$Â§! is, de jure, a vassal of Â§Y$CLAIMANT$'sÂ§!, which is cause enough for war.;Le Â§Y$TITLE$Â§! est, de Jure, un vassal de Â§Y$CLAIMANT$Â§!, ce qui constitue un motif de guerre suffisant.;;;;;;;;;;;;x
-change_seniority_succession_law_desc;Â§Y$CLAIMANT$Â§! can declare war to change the succession law in the Â§Y$TITLE$Â§! to seniority!;Le(la) Â§Y$CLAIMANT$Â§! peut dÃ©clarer la guerre pour imposer une loi de succession basÃ©e sur le sÃ©niorat au(Ã  la) Â§Y$TITLE$Â§!;;;;;;;;;;;;x
-change_primogeniture_succession_law_desc;Â§Y$CLAIMANT$Â§! can declare war to change the succession law in the Â§Y$TITLE$Â§! to primogeniture!;Le(la) Â§Y$CLAIMANT$Â§! peut dÃ©clarer la guerre pour imposer une loi de succession basÃ©e sur la primogÃ©niture du Â§Y$TITLE$Â§!;;;;;;;;;;;;x
-change_feudal_elective_succession_law_desc;Â§Y$CLAIMANT$Â§! can declare war to change the succession law in the Â§Y$TITLE$Â§! to feudal elective!;Le(la) Â§Y$CLAIMANT$Â§! peut dÃ©clarer la guerre pour imposer une loi basÃ©e sur la succession Ã©lective au(Ã  la) Â§Y$TITLE$Â§!;;;;;;;;;;;;x
-crusade_desc;Â§Y$CLAIMANT$Â§! can use this Casus Belli to seize all titles held by the infidel, Â§Y$TARGET$Â§!, within the de jure Â§Y$TITLE$Â§!.;Le(la) Â§Y$CLAIMANT$Â§! peut utiliser ce casus belli pour sâ€™emparer de tous les titres que possÃ¨de lâ€™infidÃ¨le Â§Y$TARGET$Â§! au sein du(de la) Â§Y$TITLE$Â§! de Jure.;;;;;;;;;;;;x
-change_gavelkind_succession_law_desc;Â§Y$CLAIMANT$Â§! can declare war to change the succession law in the Â§Y$TITLE$Â§! to gavelkind!;Le(la) Â§Y$CLAIMANT$Â§! peut dÃ©clarer la guerre pour imposer une loi de succession basÃ©e sur le Partage Salique au(Ã  la) Â§Y$TITLE$Â§!;;;;;;;;;;;;x
+claim_desc;This Casus Belli can be used by §Y$CLAIMANT$§! to press the claim on the §Y$TITLE$§!;Ce casus belli peut être utilisé par le(la) §Y$CLAIMANT$§! pour appuyer sa revendication vis-à-vis de §Y$TITLE$§!;;;;;;;;;;;;x
+claim_on_liege_desc;This Casus Belli can be used by §Y$CLAIMANT$§! to press the claim on the §Y$TITLE$§!;Ce casus belli peut être utilisé par le(la) §Y$CLAIMANT$§! pour appuyer sa revendication vis-à-vis de §Y$TITLE$§!;;;;;;;;;;;;x
+other_claim_on_liege_desc;This Casus Belli can be used by §Y$PRESSER$§! to press §Y$CLAIMANT$'s§! claim on the §Y$TITLE$§!;Ce casus belli peut être utilisé par le(la) §Y$PRESSER$§! pour appuyer la revendication de §Y$CLAIMANT$§! vis-à-vis du(de la) §Y$TITLE$§!;;;;;;;;;;;;x
+invasion_desc;§Y$CLAIMANT$§! has been granted the right to invade the §Y$TITLE$§!. If successful, the titles to all currently occupied holdings will be seized.;§Y$CLAIMANT$§! a désormais le droit d’envahir le §Y$TITLE$§!. En cas de réussite, les titres de toutes les fiefs actuellement occupées seront saisis.;;;;;;;;;;;;x
+excommunicated_ruler_desc;§Y$TARGET$§! has been excommunicated, a just cause for war if ever there was one!;§Y$TARGET$§! a été excommunié(e), un motif de guerre légitime s’il en est !;;;;;;;;;;;;x
+bid_for_independence_desc;§Y$CLAIMANT$§! can attempt to declare independence from §Y$TARGET$§!;Le(la) §Y$CLAIMANT$§! peut tenter de déclarer son indépendance de : §Y$TARGET$§!;;;;;;;;;;;;x
+overthrow_ruler_desc;§Y$TARGET$§! has tried and failed to imprison §Y$CLAIMANT$§!, which has resulted in an armed conflict;§Y$TARGET$§! a essayé en vain d’emprisonner §Y$CLAIMANT$§!, ce qui a déclenché un conflit armé.;;;;;;;;;;;;x
+dejure_county_claim_desc;The §Y$TITLE$§! is, de jure, a vassal of §Y$CLAIMANT$'s§!, which is cause enough for war.;Le §Y$TITLE$§! est, de Jure, un vassal de §Y$CLAIMANT$§!, ce qui constitue un motif de guerre suffisant.;;;;;;;;;;;;x
+change_seniority_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to seniority!;Le(la) §Y$CLAIMANT$§! peut déclarer la guerre pour imposer une loi de succession basée sur le séniorat au(à la) §Y$TITLE$§!;;;;;;;;;;;;x
+change_primogeniture_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to primogeniture!;Le(la) §Y$CLAIMANT$§! peut déclarer la guerre pour imposer une loi de succession basée sur la primogéniture du §Y$TITLE$§!;;;;;;;;;;;;x
+change_feudal_elective_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to feudal elective!;Le(la) §Y$CLAIMANT$§! peut déclarer la guerre pour imposer une loi basée sur la succession élective au(à la) §Y$TITLE$§!;;;;;;;;;;;;x
+crusade_desc;§Y$CLAIMANT$§! can use this Casus Belli to seize all titles held by the infidel, §Y$TARGET$§!, within the de jure §Y$TITLE$§!.;Le(la) §Y$CLAIMANT$§! peut utiliser ce casus belli pour s’emparer de tous les titres que possède l’infidèle §Y$TARGET$§! au sein du(de la) §Y$TITLE$§! de Jure.;;;;;;;;;;;;x
+change_gavelkind_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to gavelkind!;Le(la) §Y$CLAIMANT$§! peut déclarer la guerre pour imposer une loi de succession basée sur le Partage Salique au(à la) §Y$TITLE$§!;;;;;;;;;;;;x
 CB_NAME_GAVELKIND_SUCCESSION_LAW;Gavelkind Succession Law;Imposer la Loi salique;;;;;;;;;;;;x
 WAR_NAME_GAVELKIND_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Gavelkind;$ORDER$ Guerre civile $SECOND_ADJ$ du Partage salique;;;;;;;;;;;;x
-lower_crown_authority_law_desc;Â§Y$CLAIMANT$Â§! can declare war to lower Crown Authority in the Â§Y$TITLE$Â§!;Le(la) Â§Y$CLAIMANT$Â§! peut dÃ©clarer la guerre pour affaiblir lâ€™autoritÃ© de la Couronne de Â§Y$TITLE$Â§!;;;;;;;;;;;;x
-CB_NAME_LOWER_CROWN_AUTHORITY_LAW;Lower Crown Authority;Affaiblir lâ€™autoritÃ© de la Couronne;;;;;;;;;;;;x
-WAR_NAME_LOWER_CROWN_AUTHORITY_LAW;$ORDER$$SECOND_ADJ$ Civil War to lower Crown Authority;$ORDER$ Guerre civile $SECOND_ADJ$ visant Ã  affaiblir lâ€™autoritÃ© de la Couronne;;;;;;;;;;;;x
+lower_crown_authority_law_desc;§Y$CLAIMANT$§! can declare war to lower Crown Authority in the §Y$TITLE$§!;Le(la) §Y$CLAIMANT$§! peut déclarer la guerre pour affaiblir l’autorité de la Couronne de §Y$TITLE$§!;;;;;;;;;;;;x
+CB_NAME_LOWER_CROWN_AUTHORITY_LAW;Lower Crown Authority;Affaiblir l’autorité de la Couronne;;;;;;;;;;;;x
+WAR_NAME_LOWER_CROWN_AUTHORITY_LAW;$ORDER$$SECOND_ADJ$ Civil War to lower Crown Authority;$ORDER$ Guerre civile $SECOND_ADJ$ visant à affaiblir l’autorité de la Couronne;;;;;;;;;;;;x
 SEARCH_REALM;Search Realm;Domaine;;;;;;;;;;;;x
 FILTER_LANDED_DYNASTY;Great House;Grandes Familles;;;;;;;;;;;;x
 volley_tactic;Volley Tactic;Salve;;;;;;;;;;;;x
 swarm_volley_tactic;Swarm Volley Tactic;Salve en essaim;;;;;;;;;;;;x
 swarm_tactic;Swarm Tactic;Englobement;;;;;;;;;;;;x
-prepare_tactic;Prepare Tactic;PrÃ©paratifs;;;;;;;;;;;;x
+prepare_tactic;Prepare Tactic;Préparatifs;;;;;;;;;;;;x
 advance_tactic;Advance Tactic;Progression;;;;;;;;;;;;x
-awesome_advance_tactic;Awesome Advance Tactic;Progression dÃ©bridÃ©e;;;;;;;;;;;;x
-BUBONIC_PLAGUE_INFO;The Pale Rider has brought the Black Death to this county.;Le quatriÃ¨me cavalier rÃ©pand la peste noire dans ce pays.;;;;;;;;;;;;x
-CHANGE_SIEGE;The defenders in the siege in $WHERE$ will get $SIZE$ penalties.;Les dÃ©fenseurs au siÃ¨ge de $WHERE$ vont subir des pÃ©nalitÃ©s $SIZE$.;;;;;;;;;;;;x
-GAIN_CB;Gain casus-belli on $WHO$.\n;Obtention dâ€™un casus belli sur $WHO$\n;;;;;;;;;;;;x
-MARTIALEFFECT;$DIRECTION$ $VALUE$ Martial\n;$DIRECTION$ $VALUE$ en compÃ©tence Martiale \n;;;;;;;;;;;;x
+awesome_advance_tactic;Awesome Advance Tactic;Progression débridée;;;;;;;;;;;;x
+BUBONIC_PLAGUE_INFO;The Pale Rider has brought the Black Death to this county.;Le quatrième cavalier répand la peste noire dans ce pays.;;;;;;;;;;;;x
+CHANGE_SIEGE;The defenders in the siege in $WHERE$ will get $SIZE$ penalties.;Les défenseurs au siège de $WHERE$ vont subir des pénalités $SIZE$.;;;;;;;;;;;;x
+GAIN_CB;Gain casus-belli on $WHO$.\n;Obtention d’un casus belli sur $WHO$\n;;;;;;;;;;;;x
+MARTIALEFFECT;$DIRECTION$ $VALUE$ Martial\n;$DIRECTION$ $VALUE$ en compétence Martiale \n;;;;;;;;;;;;x
 BACK_PLOT_EFFECT;$BACKER$ joins $PLOTTER$ in the plot to $TITLE$\n;$BACKER$ soutient le complot de $PLOTTER$ pour le(la) $TITLE$\n;;;;;;;;;;;;x
-DEACTIVATE_TITLE_EFFECT;Â§Y$TITLE$Â§! no longer exists.\n;Â§Y$TITLE$Â§! nâ€™existe plus.\n;;;;;;;;;;;;x
+DEACTIVATE_TITLE_EFFECT;§Y$TITLE$§! no longer exists.\n;§Y$TITLE$§! n’existe plus.\n;;;;;;;;;;;;x
 ALL_CURRENT_ENEMIES;All War Enemies;Tous les ennemis;;;;;;;;;;;;x
-ALLOW_REVOKATION_ON;Revocation of titles Allowed\n;Annulation des titres autorisÃ©e;;;;;;;;;;;;x
-ALLOW_REVOKATION_OFF;Revocation of titles Disallowed\n;Annulation des titres non autorisÃ©e;;;;;;;;;;;;x
-ALLOW_FREE_INFIDEL_REVOKATION_ON;Revocation of infidel titles free\n;Lâ€™annulation des titres des infidÃ¨les est libre;;;;;;;;;;;;x
-ALLOW_FREE_INFIDEL_REVOKATION_OFF;Revocation of infidel titles no longer free\n;Lâ€™annulation des titres des infidÃ¨les nâ€™est plus libre.\n;;;;;;;;;;;;x
-ALLOW_FREE_REVOKATION_OFF;Revocation of titles no longer free\n;Lâ€™annulation des titres nâ€™est plus libre.\n;;;;;;;;;;;;x
-COMBATEND_PIETY;Â§Y[Player.Religion.GetPietyName] Gained in BattleÂ§!;Â§Y[Player.Religion.GetPietyName] acquise au combatÂ§!;;;;;;;;;;;;x
-ENDGAME_TEXT_DEATH;After a lineage of $NUMCHARS$ characters your line has ended with the death of the heirless $ENDCHAR$. ;AprÃ¨s $NUMCHARS$ personnages successifs, la mort de $ENDCHAR$ a vu s'Ã©teindre votre lignÃ©e;;;;;;;;;;;;x
-DYN6_DESC;With a score of $SCORE$ you$FAILED$ beat House Komnenos. If we exclude Isaac, who had launched a successful coup to become Emperor in 1057, the Komnenos family were loyal servants of the Byzantine Empire. In the chaos following the Seljuk victory at Manzikert, the Komnenos family followed that proud family tradition and launched another coup. For the next 100 years the dynasty would halt the decline of the Byzantine Empire under what we know as the Komnenian restoration. Ironically, the family would be toppled in a palace coup, but they would continue to rule as Emperors in Trebizond;Avec un score de $SCORE$, vous surpassez la Maison ComnÃ¨ne. Hormis Isaac, qui s'empare du trÃ´ne impÃ©rial en 1057, les ComnÃ¨ne sont de loyaux serviteurs de lâ€™Empire byzantin. Dans le chaos qui rÃ¨gne aprÃ¨s la victoire seldjouk Ã  Manzikert, les ComnÃ¨nes reviennent Ã  leurs sources et trament un nouveau coup d'Ã‰tat. Au cours du siÃ¨cle qui suit, la dynastie interrompt le dÃ©clin de lâ€™Empire byzantin par ce qui fut connut comme la 'restauration ComnÃ¨ne'. Ironiquement, une rÃ©volution de palais Ã©vincera la famille, mais elle continue Ã  rÃ©gner sur lâ€™Empire de TrÃ©bizonde.;;;;;;;;;;;;x
-DYN12_DESC;With a score of $SCORE$ you$FAILED$ beat House von ZÃ¤hringen, who were powerful landholders in Southern Germany and holders of the Duchies of Verona and Carinthia, which made the ZÃ¤hringen family a key power holder in Germany. A failed rebellion against the Emperor saw these titles stripped from the family and other parts of the family lands would be inherited by other dynasties, leaving the family lands shrunk to a few holdings in Swabia.;Avec un score de $SCORE$, vous surpassez la Maison von ZÃ¤hringen composÃ©e de puissants propriÃ©taires fonciers du sud de lâ€™Allemagne ainsi que des Titulaires des duchÃ©s de VÃ©rone et de Carinthie. Les ZÃ¤hringen sont des acteurs influents du pouvoir allemand. Suite Ã  une rÃ©bellion manquÃ©e contre lâ€™Empereur, la famille perd ces titres et ses terres sont distribuÃ©es Ã  dâ€™autres dynasties. Ses avoirs se cantonnent alors Ã  quelques possessions en Souabe.;;;;;;;;;;;;x
-DYN15_DESC;With a score of $SCORE$ you$FAILED$ beat House Babenberger, which is not to be confused with the slightly more famous von Babenbergs of Austria. This cadet branch of house Capet held minor titles in Franconia. History probably wouldn't remember them if it wasn't for the more famous family with a similar name.;Avec un score de $SCORE$, vous surpassez la Maison Babenberger, Ã  ne pas confondre avec les illustres von Babenberg dâ€™Autriche. Cette branche cadette de la maison capÃ©tienne possÃ¨de des titres mineurs en Franconie. Lâ€™histoire ne se souviendrait probablement pas de cette famille si on ne la confondait pas avec les von Babenberg.;;;;;;;;;;;;x
-EVTDESC1028;It seems the young women no longer have the power to seduce me.;Les jeunes femmes semblent me laisser de marbre dÃ©sormais.;;;;;;;;;;;;x
-EVTDESC1030;A diet of bread and water does not satisfy me any more. I need something else, something delicious and filling.;Je ne peux plus me contenter de pain et dâ€™eau fraÃ®che. Il me faut des mets Ã  la fois savoureux et nourrissants.;;;;;;;;;;;;x
-EVTDESC1036;I am sick of always being kind to everyone!;Jâ€™en ai assez de traiter tout le monde avec gentillesse !;;;;;;;;;;;;x
-EVTDESC1037;I should be happy with what I've got, not everyone is as privileged as I am.;Je devrai me contenter de ce qui est mien. Tout le monde nâ€™est pas aussi privilÃ©giÃ© que moi.;;;;;;;;;;;;x
-EVTDESC1038;I have started to feel that 'turn the other cheek' is just stupid.;Plus Ã§a va, plus je trouve que 'tendre lâ€™autre joue' est un peu stupide.;;;;;;;;;;;;x
-EVTDESC1039;The constant surges of adrenaline and increased heart rate makes me weary. It's not as fun being angry as it used to be.;Ces incessants coups de sang commencent Ã  avoir raison de moi. La colÃ¨re ne mâ€™amuse plus autant quâ€™avant.;;;;;;;;;;;;x
-EVTDESC1040;I am pretty great, after all.;Je suis quand mÃªme extraordinaire.;;;;;;;;;;;;x
+ALLOW_REVOKATION_ON;Revocation of titles Allowed\n;Annulation des titres autorisée;;;;;;;;;;;;x
+ALLOW_REVOKATION_OFF;Revocation of titles Disallowed\n;Annulation des titres non autorisée;;;;;;;;;;;;x
+ALLOW_FREE_INFIDEL_REVOKATION_ON;Revocation of infidel titles free\n;L’annulation des titres des infidèles est libre;;;;;;;;;;;;x
+ALLOW_FREE_INFIDEL_REVOKATION_OFF;Revocation of infidel titles no longer free\n;L’annulation des titres des infidèles n’est plus libre.\n;;;;;;;;;;;;x
+ALLOW_FREE_REVOKATION_OFF;Revocation of titles no longer free\n;L’annulation des titres n’est plus libre.\n;;;;;;;;;;;;x
+COMBATEND_PIETY;§Y[Player.Religion.GetPietyName] Gained in Battle§!;§Y[Player.Religion.GetPietyName] acquise au combat§!;;;;;;;;;;;;x
+ENDGAME_TEXT_DEATH;After a lineage of $NUMCHARS$ characters your line has ended with the death of the heirless $ENDCHAR$. ;Après $NUMCHARS$ personnages successifs, la mort de $ENDCHAR$ a vu s'éteindre votre lignée;;;;;;;;;;;;x
+DYN6_DESC;With a score of $SCORE$ you$FAILED$ beat House Komnenos. If we exclude Isaac, who had launched a successful coup to become Emperor in 1057, the Komnenos family were loyal servants of the Byzantine Empire. In the chaos following the Seljuk victory at Manzikert, the Komnenos family followed that proud family tradition and launched another coup. For the next 100 years the dynasty would halt the decline of the Byzantine Empire under what we know as the Komnenian restoration. Ironically, the family would be toppled in a palace coup, but they would continue to rule as Emperors in Trebizond;Avec un score de $SCORE$, vous surpassez la Maison Comnène. Hormis Isaac, qui s'empare du trône impérial en 1057, les Comnène sont de loyaux serviteurs de l’Empire byzantin. Dans le chaos qui règne après la victoire seldjouk à Manzikert, les Comnènes reviennent à leurs sources et trament un nouveau coup d'État. Au cours du siècle qui suit, la dynastie interrompt le déclin de l’Empire byzantin par ce qui fut connut comme la 'restauration Comnène'. Ironiquement, une révolution de palais évincera la famille, mais elle continue à régner sur l’Empire de Trébizonde.;;;;;;;;;;;;x
+DYN12_DESC;With a score of $SCORE$ you$FAILED$ beat House von Zähringen, who were powerful landholders in Southern Germany and holders of the Duchies of Verona and Carinthia, which made the Zähringen family a key power holder in Germany. A failed rebellion against the Emperor saw these titles stripped from the family and other parts of the family lands would be inherited by other dynasties, leaving the family lands shrunk to a few holdings in Swabia.;Avec un score de $SCORE$, vous surpassez la Maison von Zähringen composée de puissants propriétaires fonciers du sud de l’Allemagne ainsi que des Titulaires des duchés de Vérone et de Carinthie. Les Zähringen sont des acteurs influents du pouvoir allemand. Suite à une rébellion manquée contre l’Empereur, la famille perd ces titres et ses terres sont distribuées à d’autres dynasties. Ses avoirs se cantonnent alors à quelques possessions en Souabe.;;;;;;;;;;;;x
+DYN15_DESC;With a score of $SCORE$ you$FAILED$ beat House Babenberger, which is not to be confused with the slightly more famous von Babenbergs of Austria. This cadet branch of house Capet held minor titles in Franconia. History probably wouldn't remember them if it wasn't for the more famous family with a similar name.;Avec un score de $SCORE$, vous surpassez la Maison Babenberger, à ne pas confondre avec les illustres von Babenberg d’Autriche. Cette branche cadette de la maison capétienne possède des titres mineurs en Franconie. L’histoire ne se souviendrait probablement pas de cette famille si on ne la confondait pas avec les von Babenberg.;;;;;;;;;;;;x
+EVTDESC1028;It seems the young women no longer have the power to seduce me.;Les jeunes femmes semblent me laisser de marbre désormais.;;;;;;;;;;;;x
+EVTDESC1030;A diet of bread and water does not satisfy me any more. I need something else, something delicious and filling.;Je ne peux plus me contenter de pain et d’eau fraîche. Il me faut des mets à la fois savoureux et nourrissants.;;;;;;;;;;;;x
+EVTDESC1036;I am sick of always being kind to everyone!;J’en ai assez de traiter tout le monde avec gentillesse !;;;;;;;;;;;;x
+EVTDESC1037;I should be happy with what I've got, not everyone is as privileged as I am.;Je devrai me contenter de ce qui est mien. Tout le monde n’est pas aussi privilégié que moi.;;;;;;;;;;;;x
+EVTDESC1038;I have started to feel that 'turn the other cheek' is just stupid.;Plus ça va, plus je trouve que 'tendre l’autre joue' est un peu stupide.;;;;;;;;;;;;x
+EVTDESC1039;The constant surges of adrenaline and increased heart rate makes me weary. It's not as fun being angry as it used to be.;Ces incessants coups de sang commencent à avoir raison de moi. La colère ne m’amuse plus autant qu’avant.;;;;;;;;;;;;x
+EVTDESC1040;I am pretty great, after all.;Je suis quand même extraordinaire.;;;;;;;;;;;;x
 EVTOPTA1040;I think I should be proud of myself;Je pense que je suis quelque chose comme une bonne personne.;;;;;;;;;;;;x
-EVTDESC1045;I did not understand fear before, but once you have felt your leg shake and teeth chatter with fear, then it is hard to remain brave.;Avant, jâ€™ignorais ce quâ€™Ã©tait la peur, mais aprÃ¨s avoir Ã©tÃ© parcouru par un frisson et senti la terreur, comment rester brave ?;;;;;;;;;;;;x
-EVTDESC1046;Fear has loosened its grip on me, and I stand tall against the things I used to fear.;La peur a relÃ¢chÃ© son emprise, j'affronte maintenant ce qui me tÃ©tanisait autrefois.;;;;;;;;;;;;x
+EVTDESC1045;I did not understand fear before, but once you have felt your leg shake and teeth chatter with fear, then it is hard to remain brave.;Avant, j’ignorais ce qu’était la peur, mais après avoir été parcouru par un frisson et senti la terreur, comment rester brave ?;;;;;;;;;;;;x
+EVTDESC1046;Fear has loosened its grip on me, and I stand tall against the things I used to fear.;La peur a relâché son emprise, j'affronte maintenant ce qui me tétanisait autrefois.;;;;;;;;;;;;x
 EVTOPTA1051;I am... NOT the law!;La loi... connait pas.;;;;;;;;;;;;x
-EVTDESC1057;The feeling of being watched and followed seem to have disappeared overnight!;Avec le lever du jour, je n'ai plus l'impression que chaque ombre cache une menace Ã  mon endroit.;;;;;;;;;;;;x
-EVTDESC1058;Several assassinations and 'loans' later, I don't know if I'm still able to trust anyone.;AprÃ¨s toutes ces 'disparitions mystÃ©rieuses', j'ignore si je pourrais Ã  nouveau faire confiance.;;;;;;;;;;;;x
-EVTDESC1570;Most people have good hearts. A stranger is just a friend I have yet to meet.;La nature humaine est bonne. Tout Ã©tranger est un ami en puissance.;;;;;;;;;;;;x
-EVTOPTA1571;I take it back, some people are evil.;Apparence que la mÃ©chancetÃ© existe.;;;;;;;;;;;;x
-EVTDESC1580;That kid mocked me! I cannot be blamed for punching him in the face and giving him a nosebleed...;Il a osÃ© se moquer de moi ! Il fait moins le malin maintenant qu'il a le nez en sang...;;;;;;;;;;;;x
-EVTOPTA1590;Patience pays off;La patiente est douce Ã  mon cÅ“ur;;;;;;;;;;;;x
-EVTDESC1591;[From.GetFirstName], my [GetFromRelation], chastised me for my cold patient nature. 'Show some spirit, damn you!' [From.GetSubjectPronoun] shouted.;Mon manque de caractÃ¨re mâ€™a valu une correction de la part de [From.GetFirstName], mon(ma) [GetFromRelation]. 'Fais montre d'un peu de cran !' a-t-[From.GetSheHe] hurlÃ©.;;;;;;;;;;;;x
+EVTDESC1057;The feeling of being watched and followed seem to have disappeared overnight!;Avec le lever du jour, je n'ai plus l'impression que chaque ombre cache une menace à mon endroit.;;;;;;;;;;;;x
+EVTDESC1058;Several assassinations and 'loans' later, I don't know if I'm still able to trust anyone.;Après toutes ces 'disparitions mystérieuses', j'ignore si je pourrais à nouveau faire confiance.;;;;;;;;;;;;x
+EVTDESC1570;Most people have good hearts. A stranger is just a friend I have yet to meet.;La nature humaine est bonne. Tout étranger est un ami en puissance.;;;;;;;;;;;;x
+EVTOPTA1571;I take it back, some people are evil.;Apparence que la méchanceté existe.;;;;;;;;;;;;x
+EVTDESC1580;That kid mocked me! I cannot be blamed for punching him in the face and giving him a nosebleed...;Il a osé se moquer de moi ! Il fait moins le malin maintenant qu'il a le nez en sang...;;;;;;;;;;;;x
+EVTOPTA1590;Patience pays off;La patiente est douce à mon cœur;;;;;;;;;;;;x
+EVTDESC1591;[From.GetFirstName], my [GetFromRelation], chastised me for my cold patient nature. 'Show some spirit, damn you!' [From.GetSubjectPronoun] shouted.;Mon manque de caractère m’a valu une correction de la part de [From.GetFirstName], mon(ma) [GetFromRelation]. 'Fais montre d'un peu de cran !' a-t-[From.GetSheHe] hurlé.;;;;;;;;;;;;x
 EVTOPTA1591;My temper is rising;La moutarde me monte au nez.;;;;;;;;;;;;x
-EVTDESC6021;I was later told that my strange behavior and fear of the moon was caused by the voices in my head. The [Root.Religion.GetPriestTitle] managed to clear my head of voices and now I have total silence.;Par la suite, on mâ€™a dit que mon comportement Ã©trange et ma peur de la lune Ã©taient dues aux voix que jâ€™entendais. Le prÃªtre a rÃ©ussi Ã  faire disparaÃ®tre ces voix et je vis maintenant dans le silence total.;;;;;;;;;;;;x
-EVTDESC6030;I am speaking in tongues, screaming obscenities at random times, most often when the [Root.Religion.GetPriestTitle] preaches and am sometimes lying on the ground writhing in apparent pain. I seldom remember these things and people believe me to be possessed.;Je souffre de crises de dÃ©mence. Tout Ã  coup, je me mets Ã  hurler des obscÃ©nitÃ©s, gÃ©nÃ©ralement lorsque le prÃªtre est en train de prÃªcher. Et parfois, je mâ€™allonge par terre en me tordant de douleur. Je me souviens rarement de ces crises et les gens me croient possÃ©dÃ©(e).;;;;;;;;;;;;x
+EVTDESC6021;I was later told that my strange behavior and fear of the moon was caused by the voices in my head. The [Root.Religion.GetPriestTitle] managed to clear my head of voices and now I have total silence.;Par la suite, on m’a dit que mon comportement étrange et ma peur de la lune étaient dues aux voix que j’entendais. Le prêtre a réussi à faire disparaître ces voix et je vis maintenant dans le silence total.;;;;;;;;;;;;x
+EVTDESC6030;I am speaking in tongues, screaming obscenities at random times, most often when the [Root.Religion.GetPriestTitle] preaches and am sometimes lying on the ground writhing in apparent pain. I seldom remember these things and people believe me to be possessed.;Je souffre de crises de démence. Tout à coup, je me mets à hurler des obscénités, généralement lorsque le prêtre est en train de prêcher. Et parfois, je m’allonge par terre en me tordant de douleur. Je me souviens rarement de ces crises et les gens me croient possédé(e).;;;;;;;;;;;;x
 EVTTOOLTIP452;I will go to [This.GetFirstName]'s chamber;Je vais me rendre dans la chambre de madame [This.GetFirstName].;;;;;;;;;;;;x
-EVTOPTA38100;Ask my guardian about [Root.Guardian.Religion.GetRandomGodName].;Jâ€™interroge mon(ma) tuteur(trice) sur [Root.Guardian.Religion.GetRandomGodName].;;;;;;;;;;;;x
-EVTOPTC65049;[Root.Religion.GetRandomGodName] will cure me!;[Root.Religion.GetRandomGodName] me guÃ©rira !;;;;;;;;;;;;x
-FE_CREDITS;Credits;GÃ©nÃ©rique;;;;;;;;;;;;x
+EVTOPTA38100;Ask my guardian about [Root.Guardian.Religion.GetRandomGodName].;J’interroge mon(ma) tuteur(trice) sur [Root.Guardian.Religion.GetRandomGodName].;;;;;;;;;;;;x
+EVTOPTC65049;[Root.Religion.GetRandomGodName] will cure me!;[Root.Religion.GetRandomGodName] me guérira !;;;;;;;;;;;;x
+FE_CREDITS;Credits;Générique;;;;;;;;;;;;x
 FE_MILITARY;Military;Force;;;;;;;;;;;;x
-HINT_LAW_VIEW_TEXT_5;The characters who are currently second and third in the line of succession are called Pretenders. They will usually dislike the current heir and even the current ruler.;Les personnages situÃ©s aux deuxiÃ¨me et troisiÃ¨me places de la ligne de succession sont des prÃ©tendants. GÃ©nÃ©ralement, ils nâ€™apprÃ©cient guÃ¨re lâ€™hÃ©ritier dÃ©signÃ©, ni mÃªme le souverain en place. Lorsquâ€™un souverain meurt, les prÃ©tendants se voient accorder un casus belli spÃ©cifique pour cinq ans leur permettant de revendiquer le trÃ´ne.;;;;;;;;;;;;x
+HINT_LAW_VIEW_TEXT_5;The characters who are currently second and third in the line of succession are called Pretenders. They will usually dislike the current heir and even the current ruler.;Les personnages situés aux deuxième et troisième places de la ligne de succession sont des prétendants. Généralement, ils n’apprécient guère l’héritier désigné, ni même le souverain en place. Lorsqu’un souverain meurt, les prétendants se voient accorder un casus belli spécifique pour cinq ans leur permettant de revendiquer le trône.;;;;;;;;;;;;x
 INTERACTION_MESSAGE_ACTOR_PORTRAIT;A message from [Actor.GetBestName];Missive de [Actor.GetBestName];;;;;;;;;;;;x
-INTERACTION_REQUIRES_RECIPIENT_IS_INDEPENDENT;Â§Y[Recipient.GetTitledFirstName]Â§! is independent;[Recipient.GetBestName] est souverain(e);;;;;;;;;;;;x
-INTERACTION_REQUIRES_CHARACTER_UNLANDED;Â§Y[Recipient.GetTitledFirstName]Â§! must be unlanded;[Recipient.GetBestName] doit ne pas avoir de fief;;;;;;;;;;;;x
-INTERACTION_REQUIRES_HAS_LANDED_TITLE;Â§Y[Recipient.GetTitledFirstName]Â§! must have a landed title to claim;[Recipient.GetBestName] doit avoir un titre Ã  revendiquer;;;;;;;;;;;;x
-INTERACTION_REQUIRES_LANDED_TITLE;Â§Y[Actor.GetTitledFirstName]Â§! must have a landed title which Â§Y[Recipient.GetTitledFirstName]Â§! can hold;[Actor.GetTitledFirstName] doit avoir un titre que [Recipient.GetTitledFirstName] peut dÃ©tenir;;;;;;;;;;;;x
-INTERACTION_REQUIRES_JOB_TITLE;Â§Y[Actor.GetTitledFirstName]Â§! must have a job title which Â§Y[Recipient.GetTitledFirstName]Â§! can hold;[Actor.GetTitledFirstName] doit avoir une charge que [Recipient.GetTitledFirstName] peut dÃ©tenir;;;;;;;;;;;;x
-INTERACTION_REQUIRES_DIFFERENT_RELIGION;Â§Y[Recipient.GetTitledFirstName]Â§! believes in a different religion than Â§Y[Actor.GetTitledFirstName]Â§!;[Recipient.GetBestName] ne partage pas la foi de [Actor.GetBestName];;;;;;;;;;;;x
-INTERACTION_REQUIRES_THIRDPARTY_SAME_RELIGION;Â§Y[ThirdPartyCharacter.GetTitledFirstName]Â§! believes in the same religion as Â§Y[Actor.GetTitledFirstName]Â§!;[ThirdPartyCharacter.GetBestName] est de la mÃªme religion que [Actor.GetBestName];;;;;;;;;;;;x
-INTERACTION_REQUIRES_RECIPIENT_IS_RELIGIOUS_HEAD;Â§Y[Recipient.GetTitledFirstName]Â§! is the religious head of Â§Y[Actor.GetTitledFirstName]Â§!;[Recipient.GetBestName] est le chef religieux de [Actor.GetBestName];;;;;;;;;;;;x
-INTERACTION_REQUIRES_TITLEHOLDER_SAME_RELIGIOUS_HEAD;Â§Y[ThirdPartyTitle.Holder.GetTitledFirstName]Â§! has the same religious head as Â§Y[Actor.GetTitledFirstName]Â§!;[ThirdPartyTitle.Holder.GetBestName] reconnait le mÃªme chef religieux que [Actor.GetBestName];;;;;;;;;;;;x
-INTERACTION_REQUIRES_THIRDPARTY_SAME_RELIGIOUS_HEAD;Â§Y[ThirdPartyCharacter.GetTitledFirstName]Â§! has the same religious head as Â§Y[Actor.GetTitledFirstName]Â§!;[ThirdPartyCharacter.GetBestName] reconnait le mÃªme chef religieux que [Actor.GetBestName];;;;;;;;;;;;x
-INTERACTION_REQUIRES_NO_OTHER_PROPOSALS;Â§Y[Recipient.GetTitledFirstName]Â§! is currently considering another offer from us;[Recipient.GetBestName] Ã©tudie dÃ©jÃ  une de nos offres.;;;;;;;;;;;;x
-INTERACTION_REQUIRES_BOTH_INDEPENDENT;Â§Y[Recipient.GetTitledFirstName]Â§! is independent;[Recipient.GetBestName] est souverain(e);;;;;;;;;;;;x
-INTERACTION_NO_INVASION_OF_LANDLESS;Cannot invade mercenary, holy order or religious head titles;Impossible de revendiquer la direction des mercenaires, d'un ordre religieux ou d'un clergÃ©.;;;;;;;;;;;;x
-INTERACTION_WRONG_GOV_TYPE;Â§Y[Recipient.GetTitledFirstName]Â§! must be able to govern this type of holding;[Recipient.GetBestName] doit pouvoir administer ce type de propriÃ©tÃ©;;;;;;;;;;;;x
-EXECUTE_IMPRISONED_INTERACTION_LONG_DESC;Sending characters to the headsman is a convenient way of getting rid of them permanently. However, it is bound to upset more than a few people, and, unlike banishment, titles and wealth will not be confiscated.;Envoyer des personnages au bourreau est un moyen pratique de sâ€™en dÃ©barrasser. Pour autant, cela risque dâ€™en contrarier certains et, contrairement au bannissement, leurs titres et leurs richesses ne seront pas confisquÃ©s.;;;;;;;;;;;;x
-TRANSFER_VASSAL_INTERACTION_LONG_DESC;Characters with landed titles will dislike you for having vassals and owning titles that are de jure part of their domain.;Les personnages dotÃ©s de titres nâ€™apprÃ©cieront pas que vous disposiez de vassaux et de titres ne faisant pas partie de leur domaine de Jure.;;;;;;;;;;;;x
-CLAIM_TITLE_INTERACTION_LONG_DESC;Invent a reason for why a certain title should belong to you. It will cost Prestige to make people accept this (though less if you have a de jure claim to it, or if your [Player.Religion.GetPietyName] is high.) The current title holder will not be pleased...;Inventez une raison pour laquelle un titre donnÃ© devrait vous revenir. Le faire accepter vous coÃ»tera du prestige (dans une moindre mesure sâ€™agissant dâ€™une revendication de Jure ou si votre [Player.Religion.GetPietyName] est Ã©levÃ©e). Le Titulaire du titre nâ€™apprÃ©ciera pas...;;;;;;;;;;;;x
-DECLARE_WAR_INTERACTION_DESC;Declare War on a character.;DÃ©clarez la guerre Ã  un personnage.;;;;;;;;;;;;x
-DECLARE_WAR_INTERACTION_LONG_DESC;War is where men prove their mettle! Just make sure you are ready...;La guerre permet aux hommes de montrer quâ€™ils sont courageux ! Encore faut-il y Ãªtre prÃ©parÃ©...;;;;;;;;;;;;x
-DECLARE_WAR_INTERACTION_1;You have subjects in Â§Y[Recipient.GetFirstName]'sÂ§! court. [Recipient.GetSubjectPronounCap] might execute them!;Vous disposez de sujets Ã  la Cour de Â§Y[Recipient.GetFirstName]Â§!. [Recipient.GetSubjectPronounCap] pourrait bien les exÃ©cuter !;;;;;;;;;;;;x
-DECLARE_WAR_INTERACTION_2;Attacking an ally would cost us Â§R$PRESTIGE$Â§! prestige;Attaquer un alliÃ© nous coÃ»terait Â§R$PRESTIGE$Â§! de prestige.;;;;;;;;;;;;x
-DECLARE_WAR_INTERACTION_ACCEPT_LOG;Â§Y[Actor.GetBestName]Â§! has declared $WAR$ on Â§Y[Recipient.GetBestName]Â§W;Â§Y[Actor.GetBestName]Â§W a dÃ©clarÃ© la $WAR$ Ã  Â§Y[Recipient.GetBestName]Â§W;;;;;;;;;;;;x
-OFFER_PEACE_INTERACTION_ACCEPT_LOG;Â§Y[Recipient.GetBestName]Â§! accepted Â§Y[Actor.GetBestName]'sÂ§! Peace Offer.;Â§Y[Recipient.GetBestName]Â§! a acceptÃ© lâ€™offre de paix de Â§Y[Actor.GetBestName]Â§!.;;;;;;;;;;;;x
-OFFER_PEACE_INTERACTION_DECLINE_LOG;Â§Y[Recipient.GetBestName]Â§! refused Â§Y[Actor.GetBestName]'sÂ§! Peace Offer.;Â§Y[Recipient.GetBestName]Â§! a refusÃ© lâ€™offre de paix de Â§Y[Actor.GetBestName]Â§!.;;;;;;;;;;;;x
-OFFER_PEACE_INTERACTION_OFFER;[Actor.GetBestName] has presented us the following peace offer:;[Actor.GetBestName] nous a proposÃ© lâ€™offre de paix suivante :;;;;;;;;;;;;x
-GRANT_LANDED_TITLE_INTERACTION_4;[Player.Religion.GetPietyName] from temple grant: Â§G$PIETY$Â§!.;[Player.Religion.GetPietyName] de concession de temple : Â§G$PIETY$Â§!.;;;;;;;;;;;;x
-ATTACKING_SOMEONE_DEFENDING_AGAINST_OTHER_RELIGIOUS_GROUP;Â§RDeclaring war on someone defending against heathens costs us an additional Â§Y$PIETY$ [Player.Religion.GetPietyName]Â§W;Â§RDÃ©clarer la guerre a quelquâ€™un qui dÃ©fend les paÃ¯ens nous coÃ»te Â§Y$PIETY$ de [Player.Religion.GetPietyName] en plusÂ§W;;;;;;;;;;;;x
-EVTNAME906;Improved Relations with [Root.Religion.GetPriestTitle];Relations amÃ©liorÃ©es avec cet(te) [Root.Religion.GetPriestTitle];;;;;;;;;;;;x
+INTERACTION_REQUIRES_RECIPIENT_IS_INDEPENDENT;§Y[Recipient.GetTitledFirstName]§! is independent;[Recipient.GetBestName] est souverain(e);;;;;;;;;;;;x
+INTERACTION_REQUIRES_CHARACTER_UNLANDED;§Y[Recipient.GetTitledFirstName]§! must be unlanded;[Recipient.GetBestName] doit ne pas avoir de fief;;;;;;;;;;;;x
+INTERACTION_REQUIRES_HAS_LANDED_TITLE;§Y[Recipient.GetTitledFirstName]§! must have a landed title to claim;[Recipient.GetBestName] doit avoir un titre à revendiquer;;;;;;;;;;;;x
+INTERACTION_REQUIRES_LANDED_TITLE;§Y[Actor.GetTitledFirstName]§! must have a landed title which §Y[Recipient.GetTitledFirstName]§! can hold;[Actor.GetTitledFirstName] doit avoir un titre que [Recipient.GetTitledFirstName] peut détenir;;;;;;;;;;;;x
+INTERACTION_REQUIRES_JOB_TITLE;§Y[Actor.GetTitledFirstName]§! must have a job title which §Y[Recipient.GetTitledFirstName]§! can hold;[Actor.GetTitledFirstName] doit avoir une charge que [Recipient.GetTitledFirstName] peut détenir;;;;;;;;;;;;x
+INTERACTION_REQUIRES_DIFFERENT_RELIGION;§Y[Recipient.GetTitledFirstName]§! believes in a different religion than §Y[Actor.GetTitledFirstName]§!;[Recipient.GetBestName] ne partage pas la foi de [Actor.GetBestName];;;;;;;;;;;;x
+INTERACTION_REQUIRES_THIRDPARTY_SAME_RELIGION;§Y[ThirdPartyCharacter.GetTitledFirstName]§! believes in the same religion as §Y[Actor.GetTitledFirstName]§!;[ThirdPartyCharacter.GetBestName] est de la même religion que [Actor.GetBestName];;;;;;;;;;;;x
+INTERACTION_REQUIRES_RECIPIENT_IS_RELIGIOUS_HEAD;§Y[Recipient.GetTitledFirstName]§! is the religious head of §Y[Actor.GetTitledFirstName]§!;[Recipient.GetBestName] est le chef religieux de [Actor.GetBestName];;;;;;;;;;;;x
+INTERACTION_REQUIRES_TITLEHOLDER_SAME_RELIGIOUS_HEAD;§Y[ThirdPartyTitle.Holder.GetTitledFirstName]§! has the same religious head as §Y[Actor.GetTitledFirstName]§!;[ThirdPartyTitle.Holder.GetBestName] reconnait le même chef religieux que [Actor.GetBestName];;;;;;;;;;;;x
+INTERACTION_REQUIRES_THIRDPARTY_SAME_RELIGIOUS_HEAD;§Y[ThirdPartyCharacter.GetTitledFirstName]§! has the same religious head as §Y[Actor.GetTitledFirstName]§!;[ThirdPartyCharacter.GetBestName] reconnait le même chef religieux que [Actor.GetBestName];;;;;;;;;;;;x
+INTERACTION_REQUIRES_NO_OTHER_PROPOSALS;§Y[Recipient.GetTitledFirstName]§! is currently considering another offer from us;[Recipient.GetBestName] étudie déjà une de nos offres.;;;;;;;;;;;;x
+INTERACTION_REQUIRES_BOTH_INDEPENDENT;§Y[Recipient.GetTitledFirstName]§! is independent;[Recipient.GetBestName] est souverain(e);;;;;;;;;;;;x
+INTERACTION_NO_INVASION_OF_LANDLESS;Cannot invade mercenary, holy order or religious head titles;Impossible de revendiquer la direction des mercenaires, d'un ordre religieux ou d'un clergé.;;;;;;;;;;;;x
+INTERACTION_WRONG_GOV_TYPE;§Y[Recipient.GetTitledFirstName]§! must be able to govern this type of holding;[Recipient.GetBestName] doit pouvoir administer ce type de propriété;;;;;;;;;;;;x
+EXECUTE_IMPRISONED_INTERACTION_LONG_DESC;Sending characters to the headsman is a convenient way of getting rid of them permanently. However, it is bound to upset more than a few people, and, unlike banishment, titles and wealth will not be confiscated.;Envoyer des personnages au bourreau est un moyen pratique de s’en débarrasser. Pour autant, cela risque d’en contrarier certains et, contrairement au bannissement, leurs titres et leurs richesses ne seront pas confisqués.;;;;;;;;;;;;x
+TRANSFER_VASSAL_INTERACTION_LONG_DESC;Characters with landed titles will dislike you for having vassals and owning titles that are de jure part of their domain.;Les personnages dotés de titres n’apprécieront pas que vous disposiez de vassaux et de titres ne faisant pas partie de leur domaine de Jure.;;;;;;;;;;;;x
+CLAIM_TITLE_INTERACTION_LONG_DESC;Invent a reason for why a certain title should belong to you. It will cost Prestige to make people accept this (though less if you have a de jure claim to it, or if your [Player.Religion.GetPietyName] is high.) The current title holder will not be pleased...;Inventez une raison pour laquelle un titre donné devrait vous revenir. Le faire accepter vous coûtera du prestige (dans une moindre mesure s’agissant d’une revendication de Jure ou si votre [Player.Religion.GetPietyName] est élevée). Le Titulaire du titre n’appréciera pas...;;;;;;;;;;;;x
+DECLARE_WAR_INTERACTION_DESC;Declare War on a character.;Déclarez la guerre à un personnage.;;;;;;;;;;;;x
+DECLARE_WAR_INTERACTION_LONG_DESC;War is where men prove their mettle! Just make sure you are ready...;La guerre permet aux hommes de montrer qu’ils sont courageux ! Encore faut-il y être préparé...;;;;;;;;;;;;x
+DECLARE_WAR_INTERACTION_1;You have subjects in §Y[Recipient.GetFirstName]'s§! court. [Recipient.GetSubjectPronounCap] might execute them!;Vous disposez de sujets à la Cour de §Y[Recipient.GetFirstName]§!. [Recipient.GetSubjectPronounCap] pourrait bien les exécuter !;;;;;;;;;;;;x
+DECLARE_WAR_INTERACTION_2;Attacking an ally would cost us §R$PRESTIGE$§! prestige;Attaquer un allié nous coûterait §R$PRESTIGE$§! de prestige.;;;;;;;;;;;;x
+DECLARE_WAR_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! has declared $WAR$ on §Y[Recipient.GetBestName]§W;§Y[Actor.GetBestName]§W a déclaré la $WAR$ à §Y[Recipient.GetBestName]§W;;;;;;;;;;;;x
+OFFER_PEACE_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetBestName]§! accepted §Y[Actor.GetBestName]'s§! Peace Offer.;§Y[Recipient.GetBestName]§! a accepté l’offre de paix de §Y[Actor.GetBestName]§!.;;;;;;;;;;;;x
+OFFER_PEACE_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§! refused §Y[Actor.GetBestName]'s§! Peace Offer.;§Y[Recipient.GetBestName]§! a refusé l’offre de paix de §Y[Actor.GetBestName]§!.;;;;;;;;;;;;x
+OFFER_PEACE_INTERACTION_OFFER;[Actor.GetBestName] has presented us the following peace offer:;[Actor.GetBestName] nous a proposé l’offre de paix suivante :;;;;;;;;;;;;x
+GRANT_LANDED_TITLE_INTERACTION_4;[Player.Religion.GetPietyName] from temple grant: §G$PIETY$§!.;[Player.Religion.GetPietyName] de concession de temple : §G$PIETY$§!.;;;;;;;;;;;;x
+ATTACKING_SOMEONE_DEFENDING_AGAINST_OTHER_RELIGIOUS_GROUP;§RDeclaring war on someone defending against heathens costs us an additional §Y$PIETY$ [Player.Religion.GetPietyName]§W;§RDéclarer la guerre a quelqu’un qui défend les païens nous coûte §Y$PIETY$ de [Player.Religion.GetPietyName] en plus§W;;;;;;;;;;;;x
+EVTNAME906;Improved Relations with [Root.Religion.GetPriestTitle];Relations améliorées avec cet(te) [Root.Religion.GetPriestTitle];;;;;;;;;;;;x
 EVTNAME907;Decreased Relation Between [Root.Religion.GetPriestTitle] and Spiritual Leader;Moins bonnes relations entre cet(te) [Root.Religion.GetPriestTitle] et le Chapelain;;;;;;;;;;;;x
 count_saxon;Earl;Ealdorman;;;;;;;;;;;;x
-emperor_king_christian;Emperor-Bishop;CÃ©saropape;;;;;;;;;;;;x
+emperor_king_christian;Emperor-Bishop;Césaropape;;;;;;;;;;;;x
 temple_king_orthodox;King-Bishop;Patriarche;;;;;;;;;;;;x
 temple_duke_orthodox;Prince-Archbishop;Exarque;;;;;;;;;;;;x
 temple_duke_shiite;Grand Ayatollah;Ayatollah;;;;;;;;;;;;x
-temple_count_orthodox;Metropolitan;MÃ©tropolite;;;;;;;;;;;;x
+temple_count_orthodox;Metropolitan;Métropolite;;;;;;;;;;;;x
 temple_count_sunni;Sheikh;Cheikh;;;;;;;;;;;;x
 temple_count_shiite;Ayatollah;Mujtahid;;;;;;;;;;;;x
 city_emperor;Grand Prince;Premier Consul;;;;;;;;;;;;x
@@ -164,87 +164,87 @@ city_duke_deed;Crown of;Chancellerie de;;;;;;;;;;;;x
 city_count_deed;Crown of;Chancellerie de;;;;;;;;;;;;x
 city_baron_deed;Crown of;Chancellerie de;;;;;;;;;;;;x
 city_emperor_foa;Your Highness;Son Excellence;;;;;;;;;;;;x
-city_duke_foa;Your Grace;Votre GrÃ¢ce;;;;;;;;;;;;x
+city_duke_foa;Your Grace;Votre Grâce;;;;;;;;;;;;x
 city_baron_foa;Your honor;Votre Honneur;;;;;;;;;;;;x
-city_empire_of;Principality of;FÃ©dÃ©ration de;;;;;;;;;;;;x
-city_kingdom_of;Most Serene Republic of;SÃ©rÃ©nissime RÃ©publique de;;;;;;;;;;;;x
+city_empire_of;Principality of;Fédération de;;;;;;;;;;;;x
+city_kingdom_of;Most Serene Republic of;Sérénissime République de;;;;;;;;;;;;x
 temple_kingdom_of_catholic;Theocracy of;Primatie de;;;;;;;;;;;;x
 temple_kingdom_of_jewish_group;Theocracy of;Juristie de;;;;;;;;;;;;x
-temple_duchy_of_christian;Prince-Archbishopric of;ArchevÃªchÃ© de;;;;;;;;;;;;x
+temple_duchy_of_christian;Prince-Archbishopric of;Archevêché de;;;;;;;;;;;;x
 temple_duchy_of_jewish;Theocracy of;Grand Rabbinat de;;;;;;;;;;;;x
 temple_county_of_jewish_group;Theocracy of;Rabbinat de;;;;;;;;;;;;x
 count_arabic;Sheikh;Cheikh;;;;;;;;;;;;x
-duke_arabic;Emir;Ã‰mir;;;;;;;;;;;;x
-duke_female_arabic;Emira;Ã‰mirat;;;;;;;;;;;;x
+duke_arabic;Emir;Émir;;;;;;;;;;;;x
+duke_female_arabic;Emira;Émirat;;;;;;;;;;;;x
 duchy_of_turkish;Beylerbeylik of;Beylerbeylik de;;;;;;;;;;;;x
 emperor_iranian;Shahanshah;Chah;;;;;;;;;;;;x
 duke_female_mongol;High Chieftess;Grand cheftaine;;;;;;;;;;;;x
 e_hre;Holy Roman Empire;Saint-Empire;;;;;;;;;;;;x
-e_hre_adj;Holy Roman;ImpÃ©riale;;;;;;;;;;;;x
-d_aegean_islands_adj;Aegean;EgÃ©enne;;;;;;;;;;;;x
+e_hre_adj;Holy Roman;Impériale;;;;;;;;;;;;x
+d_aegean_islands_adj;Aegean;Egéenne;;;;;;;;;;;;x
 b_adrianopolis;Adrianopolis;Adrinople;;;;;;;;;;;;x
-d_ostergotland;Ostrogothia;Ã–stergÃ¶tland;;;;;;;;;;;;x
-d_vastergotland;Westrogothia;VÃ¤stergÃ¶tland;;;;;;;;;;;;x
+d_ostergotland;Ostrogothia;Östergötland;;;;;;;;;;;;x
+d_vastergotland;Westrogothia;Västergötland;;;;;;;;;;;;x
 c_westfriesland_adj;Westfrieslander;Frisie Occidentale;;;;;;;;;;;;x
 c_ostfriesland_adj;Ostfrieslander;Frisie Orientale;;;;;;;;;;;;x
 d_upper_lorraine_adj;Upper Lorrainian;Lorrainne;;;;;;;;;;;;x
 c_lorraine_adj;Lorrainian;Lorrainne;;;;;;;;;;;;x
 b_raivola;Raivola;Raviola;;;;;;;;;;;;x
-c_samoyeds_adj;Saamod;SamoyÃ¨de;;;;;;;;;;;;x
-b_yugydyag;Yugyd'yag;Yugydâ€™yag;;;;;;;;;;;;x
-b_bolshaya;Bol'shaya;Bolâ€™shaya;;;;;;;;;;;;x
-b_totma;Tot'ma;Totâ€™ma;;;;;;;;;;;;x
-b_krbor;Kr'Bor;Krâ€™Bor;;;;;;;;;;;;x
-b_veldvor;Vel'Dvor;Velâ€™Dvor;;;;;;;;;;;;x
-b_uste;Ust'e;Ustâ€™e;;;;;;;;;;;;x
-b_bolshayamurga;Bol'shaya Murga;Bolâ€™shaya Murga;;;;;;;;;;;;x
+c_samoyeds_adj;Saamod;Samoyède;;;;;;;;;;;;x
+b_yugydyag;Yugyd'yag;Yugyd’yag;;;;;;;;;;;;x
+b_bolshaya;Bol'shaya;Bol’shaya;;;;;;;;;;;;x
+b_totma;Tot'ma;Tot’ma;;;;;;;;;;;;x
+b_krbor;Kr'Bor;Kr’Bor;;;;;;;;;;;;x
+b_veldvor;Vel'Dvor;Vel’Dvor;;;;;;;;;;;;x
+b_uste;Ust'e;Ust’e;;;;;;;;;;;;x
+b_bolshayamurga;Bol'shaya Murga;Bol’shaya Murga;;;;;;;;;;;;x
 k_khazaria_adj;Khazarian;Khazarienne;;;;;;;;;;;;x
-b_bisert;Bisert';Bisertâ€™;;;;;;;;;;;;x
-b_pal;Pal';Palâ€™;;;;;;;;;;;;x
+b_bisert;Bisert';Bisert’;;;;;;;;;;;;x
+b_pal;Pal';Pal’;;;;;;;;;;;;x
 b_bulgar;Bolghar;Bulgarie;;;;;;;;;;;;x
-b_kinel;Kinel';Kinelâ€™;;;;;;;;;;;;x
+b_kinel;Kinel';Kinel’;;;;;;;;;;;;x
 d_cheremisa_adj;Cheremisan;Tcheremisse;;;;;;;;;;;;x
-b_illevka;Ill'Evka;Illâ€™Evka;;;;;;;;;;;;x
-b_pnobe;Pnob'e;Pnobâ€™e;;;;;;;;;;;;x
-b_novtap;Nov'Tap;Novâ€™Tap;;;;;;;;;;;;x
-b_lebyazhe;Lebyazh'e;Lebyazhâ€™e;;;;;;;;;;;;x
-b_khalmeryu;Khal'mer-Yu;Khalâ€™mer-Yu;;;;;;;;;;;;x
+b_illevka;Ill'Evka;Ill’Evka;;;;;;;;;;;;x
+b_pnobe;Pnob'e;Pnob’e;;;;;;;;;;;;x
+b_novtap;Nov'Tap;Nov’Tap;;;;;;;;;;;;x
+b_lebyazhe;Lebyazh'e;Lebyazh’e;;;;;;;;;;;;x
+b_khalmeryu;Khal'mer-Yu;Khal’mer-Yu;;;;;;;;;;;;x
 c_yamalia_adj;Yamalian;Iamalienne;;;;;;;;;;;;x
-b_karakul;Kara-Kul';Kara-Kulâ€™;;;;;;;;;;;;x
+b_karakul;Kara-Kul';Kara-Kul’;;;;;;;;;;;;x
 k_persia_adj;Persian;Persanne;;;;;;;;;;;;x
 c_ladistan_adj;Larestani;Ladistienne;;;;;;;;;;;;x
-b_bandaremashoor;Bandar-e Ma'shoor;Bandar-E Maâ€™shoor;;;;;;;;;;;;x
-b_dalverzintepe;Dal'verzin Tepe;Dalâ€™verzin Tepe;;;;;;;;;;;;x
-b_qalaikah;Qala-i-Kah;Qalâ€™a-I-Kah;;;;;;;;;;;;x
-b_ghalehghiran;Ghal'eh Ghiran;Ghalâ€™eh Ghiran;;;;;;;;;;;;x
-b_ragai;Raga'i;Ragaâ€™i;;;;;;;;;;;;x
-b_jaarah;Ja'arah;Jaâ€™arah;;;;;;;;;;;;x
-b_nuayj;Nu'ayj;Nuâ€™ayj;;;;;;;;;;;;x
+b_bandaremashoor;Bandar-e Ma'shoor;Bandar-E Ma’shoor;;;;;;;;;;;;x
+b_dalverzintepe;Dal'verzin Tepe;Dal’verzin Tepe;;;;;;;;;;;;x
+b_qalaikah;Qala-i-Kah;Qal’a-I-Kah;;;;;;;;;;;;x
+b_ghalehghiran;Ghal'eh Ghiran;Ghal’eh Ghiran;;;;;;;;;;;;x
+b_ragai;Raga'i;Raga’i;;;;;;;;;;;;x
+b_jaarah;Ja'arah;Ja’arah;;;;;;;;;;;;x
+b_nuayj;Nu'ayj;Nu’ayj;;;;;;;;;;;;x
 b_abukamal;Abu Kamal;Al Bukamal;;;;;;;;;;;;x
-b_baaj;Ba'aj;Baâ€™aj;;;;;;;;;;;;x
+b_baaj;Ba'aj;Ba’aj;;;;;;;;;;;;x
 c_gilan_adj;Gilanian;Gilani;;;;;;;;;;;;x
-d_azerbaijan_adj;Azerbaijani;AzÃ©ri;;;;;;;;;;;;x
+d_azerbaijan_adj;Azerbaijani;Azéri;;;;;;;;;;;;x
 c_shirvan_adj;Shirvanian;Shirvanienne;;;;;;;;;;;;x
-b_buzaa;Buza'a;Buzaâ€™a;;;;;;;;;;;;x
-b_koshkhab;Kosh-Khab';Kosh-Khabâ€™;;;;;;;;;;;;x
-b_eltarkan;El'tarkan;Elâ€™tarkan;;;;;;;;;;;;x
+b_buzaa;Buza'a;Buza’a;;;;;;;;;;;;x
+b_koshkhab;Kosh-Khab';Kosh-Khab’;;;;;;;;;;;;x
+b_eltarkan;El'tarkan;El’tarkan;;;;;;;;;;;;x
 e_italy;Italia;Empire italique;;;;;;;;;;;;x
 e_italy_adj;Italian;Italique;;;;;;;;;;;;x
 b_monferrato;Moncalvo;Montferrat;;;;;;;;;;;;x
-b_reggionellemila;Reggio nell'Emilia;Reggio dâ€™Ã‰milie;;;;;;;;;;;;x
+b_reggionellemila;Reggio nell'Emilia;Reggio d’Émilie;;;;;;;;;;;;x
 b_certaldo;Certaldo;Ceraldo;;;;;;;;;;;;x
-b_colledievaldelsa;Colle di Val d'Elsa;Colle Di Val dâ€™Elsa;;;;;;;;;;;;x
+b_colledievaldelsa;Colle di Val d'Elsa;Colle Di Val d’Elsa;;;;;;;;;;;;x
 b_martigny;Martigny;Marigny;;;;;;;;;;;;x
-c_geneve_adj;Genevan;GÃ©nevoise;;;;;;;;;;;;x
-b_maiche;MaÃ®che;Maiche;;;;;;;;;;;;x
+c_geneve_adj;Genevan;Génevoise;;;;;;;;;;;;x
+b_maiche;Maîche;Maiche;;;;;;;;;;;;x
 c_montpellier_adj;Montpellierian;Montpellierainne;;;;;;;;;;;;x
-b_montpellier;Montpellier;LÃ©dignan;;;;;;;;;;;;x
+b_montpellier;Montpellier;Lédignan;;;;;;;;;;;;x
 c_viviers_adj;Vivieran;Vivaroise;;;;;;;;;;;;x
 b_privas;Privas;Provas;;;;;;;;;;;;x
 c_bearn_adj;Bearnian;Bearnaise;;;;;;;;;;;;x
 c_armagnac_adj;Armagnacs;Armagnacoise;;;;;;;;;;;;x
 b_gabaret;Gabarret;Gabaret;;;;;;;;;;;;x
-b_lareole;La RÃ©ole;LarÃ©ole;;;;;;;;;;;;x
+b_lareole;La Réole;Laréole;;;;;;;;;;;;x
 c_tourraine_adj;Tourrainian;Tourangeau;;;;;;;;;;;;x
 c_arques_adj;Arquesian;Arquaise;;;;;;;;;;;;x
 k_mauretania;Mauretania;Mauritanie;;;;;;;;;;;;x
@@ -257,41 +257,41 @@ b_komelshokafa;Komel-Shokafa;Komelshokafa;;;;;;;;;;;;x
 d_gondar_adj;Gondari;Gondar;;;;;;;;;;;;x
 b_mirabel;Majdal Yaba;Mirabel;;;;;;;;;;;;x
 b_antiocheia;Antioch;Antiocheia;;;;;;;;;;;;x
-c_baalbek_adj;Baalbekian;Baâ€™albekiane;;;;;;;;;;;;x
+c_baalbek_adj;Baalbekian;Ba’albekiane;;;;;;;;;;;;x
 d_norfolk_adj;East Anglian;est-anglien;;;;;;;;;;;;x
 d_hereford_adj;Mercian;mercien;;;;;;;;;;;;x
-d_the_isles;Man;ÃŽles;;;;;;;;;;;;x
-d_the_isles_adj;Manx;ÃŽloise;;;;;;;;;;;;x
+d_the_isles;Man;Îles;;;;;;;;;;;;x
+d_the_isles_adj;Manx;Îloise;;;;;;;;;;;;x
 c_innse_gall_adj;Hebridean;Innse Galliane;;;;;;;;;;;;x
 b_stribo;Stribro;Stribo;;;;;;;;;;;;x
 d_assassin;Assassin;Hashashin;;;;;;;;;;;;x
-d_hellas_adj;Hellenite;HÃ©llÃ©nique;;;;;;;;;;;;x
+d_hellas_adj;Hellenite;Héllénique;;;;;;;;;;;;x
 d_khazars_adj;Khazarian;Khazariane;;;;;;;;;;;;x
 d_mordvins;Mordva;Mordves;;;;;;;;;;;;x
 d_mordvins_adj;Mordvin;Mordves;;;;;;;;;;;;x
-d_sames;Saamod;SamoyÃ¨des;;;;;;;;;;;;x
-d_sames_adj;Saamod;SamoyÃ¨de;;;;;;;;;;;;x
+d_sames;Saamod;Samoyèdes;;;;;;;;;;;;x
+d_sames_adj;Saamod;Samoyède;;;;;;;;;;;;x
 d_tavasts;Tavastians;Tavastie;;;;;;;;;;;;x
 d_tavasts_adj;Tavastian;tavastienne;;;;;;;;;;;;x
-d_western_isles_adj;Islander;HÃ©brides;;;;;;;;;;;;x
+d_western_isles_adj;Islander;Hébrides;;;;;;;;;;;;x
 d_yatviags_adj;Yatviag;Sudovienne;;;;;;;;;;;;x
-d_zemigalians;Zemigallians;SÃ©migaliens;;;;;;;;;;;;x
-d_zemigalians_adj;Zemigallian;SÃ©migalienne;;;;;;;;;;;;x
-e_golden_horde;Golden Horde;Horde dâ€™Or;;;;;;;;;;;;x
-k_papal_state;The Papacy;Le Saint-SiÃ¨ge;;;;;;;;;;;;x
+d_zemigalians;Zemigallians;Sémigaliens;;;;;;;;;;;;x
+d_zemigalians_adj;Zemigallian;Sémigalienne;;;;;;;;;;;;x
+e_golden_horde;Golden Horde;Horde d’Or;;;;;;;;;;;;x
+k_papal_state;The Papacy;Le Saint-Siège;;;;;;;;;;;;x
 e_shiite;The Shia Caliphate;Califat Shiite;;;;;;;;;;;;x
 d_hashshashin_adj;Fedayeen;Hashshashine;;;;;;;;;;;;x
 d_knights_hospitaler;Knights Hospitaller;Ordre de l'Hospital;;;;;;;;;;;;x
-d_varangian_guard_adj;Varangian;VarÃ¨gues;;;;;;;;;;;;x
+d_varangian_guard_adj;Varangian;Varègues;;;;;;;;;;;;x
 d_rus_company;Rus Company;Compagnie Rus;;;;;;;;;;;;x
 d_rus_company_adj;Rus;Russes;;;;;;;;;;;;x
 d_turkic_company;Turkic Company;Compagnie Turque;;;;;;;;;;;;x
 d_turkic_company_adj;Turkic;Turc;;;;;;;;;;;;x
 d_little_hat_company_adj;Hat;Chapeau;;;;;;;;;;;;x
-d_star_company;Company of the Star;Compagnie de lâ€™Ã‰toile;;;;;;;;;;;;x
-d_star_company_adj;Star;Ã‰toile;;;;;;;;;;;;x
+d_star_company;Company of the Star;Compagnie de l’Étoile;;;;;;;;;;;;x
+d_star_company_adj;Star;Étoile;;;;;;;;;;;;x
 d_company_of_st_george_adj;St. Georgian;Saint-georgien;;;;;;;;;;;;x
-d_victual_brothers;Victual Brothers;FrÃ¨res Vitaliens;;;;;;;;;;;;x
+d_victual_brothers;Victual Brothers;Frères Vitaliens;;;;;;;;;;;;x
 d_lombard_band;Lombard Band;Bande Lombarde;;;;;;;;;;;;x
 d_swiss_band;Swiss Band;Bande Suisse;;;;;;;;;;;;x
 d_breton_band;Breton Band;Bande Bretonne;;;;;;;;;;;;x
@@ -299,153 +299,153 @@ d_catalan_band;Catalan Band;Bande Catalane;;;;;;;;;;;;x
 d_saxon_band;Saxon Band;Bande Saxonne;;;;;;;;;;;;x
 d_cuman_band;Cuman Band;Bande Coumane;;;;;;;;;;;;x
 d_rus_band;Rus Band;Bande Rus;;;;;;;;;;;;x
-d_pecheneg_band;Pecheneg Band;Bande PetchÃ©nÃ¨gue;;;;;;;;;;;;x
+d_pecheneg_band;Pecheneg Band;Bande Petchénègue;;;;;;;;;;;;x
 d_bulgarian_band;Bulgarian Band;Bande Bulgare;;;;;;;;;;;;x
 d_turkic_band;Turkic Band;Bande Turque;;;;;;;;;;;;x
 d_turkic_band_adj;Turkic;Turque;;;;;;;;;;;;x
-succ_primogeniture_desc;The oldest child of the ruler inherits all titles. Your successor will like the law, but other members of your dynasty will slightly disapprove.;Lâ€™aÃ®nÃ© du souverain hÃ©rite de tous ses titres. Votre successeur apprÃ©ciera cette loi, mais les autres membres de votre dynastie la dÃ©sapprouveront.;;;;;;;;;;;;x
-succ_seniority;Seniority;SÃ©niorat;;;;;;;;;;;;x
-succ_seniority_desc;The oldest member of the dynasty inherits all titles. Your oldest child will greatly disapprove of this law, but all other members of the dynasty will approve.;Le plus vieux membre de la dynastie hÃ©rite de tous les titres. Contrairement aux autres membres de la dynastique, votre aÃ®nÃ© dÃ©sapprouvera cette loi.;;;;;;;;;;;;x
-succ_feudal_elective_desc;The ruler and each lower rank vassal (i.e. the dukes if the ruler is a king) can nominate a successor from among themselves and legitimate children and siblings of the ruler. Dukes are valid electors in both kingdoms and empires. Elective Succession is very popular with the vassals, but they will not approve if their liege personally holds too many elector titles.;Le Suzerain et chaque vassal de rang infÃ©rieur (Ã  savoir, les ducs si le souverain est un roi) peuvent nommer un successeur et lÃ©gitimer les enfants ou frÃ¨res et sÅ“urs du souverain. Les ducs sont des Ã©lecteurs dans les royaumes comme dans les empires. La succession Ã©lective est trÃ¨s apprÃ©ciÃ©e des vassaux, sauf si leur suzerain dÃ©tient un trop grand nombre de titres dâ€™Ã©lecteur.;;;;;;;;;;;;x
-succ_turkish_succession_desc;The most powerful son of the ruler succeeds, though other powerful sons are likely to intervene... The law is very popular with your children, except for the oldest child. The rest of your dynasty also approves.;Le fils le plus puissant du souverain lui succÃ¨de, mais ses autres fils peuvent aussi intervenir... Cette loi est trÃ¨s apprÃ©ciÃ©e des enfants, sauf de l'ainÃ©. Les autres membres de votre dynastie lâ€™approuvent Ã©galement.;;;;;;;;;;;;x
+succ_primogeniture_desc;The oldest child of the ruler inherits all titles. Your successor will like the law, but other members of your dynasty will slightly disapprove.;L’aîné du souverain hérite de tous ses titres. Votre successeur appréciera cette loi, mais les autres membres de votre dynastie la désapprouveront.;;;;;;;;;;;;x
+succ_seniority;Seniority;Séniorat;;;;;;;;;;;;x
+succ_seniority_desc;The oldest member of the dynasty inherits all titles. Your oldest child will greatly disapprove of this law, but all other members of the dynasty will approve.;Le plus vieux membre de la dynastie hérite de tous les titres. Contrairement aux autres membres de la dynastique, votre aîné désapprouvera cette loi.;;;;;;;;;;;;x
+succ_feudal_elective_desc;The ruler and each lower rank vassal (i.e. the dukes if the ruler is a king) can nominate a successor from among themselves and legitimate children and siblings of the ruler. Dukes are valid electors in both kingdoms and empires. Elective Succession is very popular with the vassals, but they will not approve if their liege personally holds too many elector titles.;Le Suzerain et chaque vassal de rang inférieur (à savoir, les ducs si le souverain est un roi) peuvent nommer un successeur et légitimer les enfants ou frères et sœurs du souverain. Les ducs sont des électeurs dans les royaumes comme dans les empires. La succession élective est très appréciée des vassaux, sauf si leur suzerain détient un trop grand nombre de titres d’électeur.;;;;;;;;;;;;x
+succ_turkish_succession_desc;The most powerful son of the ruler succeeds, though other powerful sons are likely to intervene... The law is very popular with your children, except for the oldest child. The rest of your dynasty also approves.;Le fils le plus puissant du souverain lui succède, mais ses autres fils peuvent aussi intervenir... Cette loi est très appréciée des enfants, sauf de l'ainé. Les autres membres de votre dynastie l’approuvent également.;;;;;;;;;;;;x
 succ_catholic_bishopric;Bishopric;Sacerdotale;;;;;;;;;;;;x
-succ_catholic_bishopric_desc;If the liege lord has nominated a successor, he succeeds. Otherwise, the Papal Candidate is chosen.;Si le suzerain a nommÃ© un successeur, celui-ci lui succÃ¨de. Sinon, le candidat papal est choisi.;;;;;;;;;;;;x
-cognatic_succession_desc;Women can inherit, but only if there are no eligible males.;Les femmes peuvent hÃ©riter, mais seulement en lâ€™absence dâ€™hommes.;;;;;;;;;;;;x
-true_cognatic_succession_desc;Women inherit on the same grounds men do.;Les femmes hÃ©ritent sur un pied dâ€™Ã©galitÃ© avec les hommes.;;;;;;;;;;;;x
-law_female_chancellor;Female Chancellors;Chanceliers fÃ©minins;;;;;;;;;;;;x
-law_female_chancellor_desc;Women can be appointed Chancellor.;Les femmes peuvent Ãªtre nommÃ©es Chancelier.;;;;;;;;;;;;x
-law_female_treasurer;Female Stewards;Intendants fÃ©minins;;;;;;;;;;;;x
-law_female_treasurer_desc;Women can be appointed Stewards.;Les femmes peuvent Ãªtre nommÃ©es intendants.;;;;;;;;;;;;x
-feudal_contract;Feudal Levies;Troupes fÃ©odales;;;;;;;;;;;;x
-feudal_contract_desc;Feudal Levy Laws control the proportion of their levies that vassal lords nominally have to provide their liege.;Les lois relatives aux troupes fÃ©odales dÃ©terminent le pourcentage de troupes que les vassaux doivent fournir Ã  leur suzerain.;;;;;;;;;;;;x
-feudal_contract_0;Minimal Feudal Levies;Troupes fÃ©odales - Minimum;;;;;;;;;;;;x
+succ_catholic_bishopric_desc;If the liege lord has nominated a successor, he succeeds. Otherwise, the Papal Candidate is chosen.;Si le suzerain a nommé un successeur, celui-ci lui succède. Sinon, le candidat papal est choisi.;;;;;;;;;;;;x
+cognatic_succession_desc;Women can inherit, but only if there are no eligible males.;Les femmes peuvent hériter, mais seulement en l’absence d’hommes.;;;;;;;;;;;;x
+true_cognatic_succession_desc;Women inherit on the same grounds men do.;Les femmes héritent sur un pied d’égalité avec les hommes.;;;;;;;;;;;;x
+law_female_chancellor;Female Chancellors;Chanceliers féminins;;;;;;;;;;;;x
+law_female_chancellor_desc;Women can be appointed Chancellor.;Les femmes peuvent être nommées Chancelier.;;;;;;;;;;;;x
+law_female_treasurer;Female Stewards;Intendants féminins;;;;;;;;;;;;x
+law_female_treasurer_desc;Women can be appointed Stewards.;Les femmes peuvent être nommées intendants.;;;;;;;;;;;;x
+feudal_contract;Feudal Levies;Troupes féodales;;;;;;;;;;;;x
+feudal_contract_desc;Feudal Levy Laws control the proportion of their levies that vassal lords nominally have to provide their liege.;Les lois relatives aux troupes féodales déterminent le pourcentage de troupes que les vassaux doivent fournir à leur suzerain.;;;;;;;;;;;;x
+feudal_contract_0;Minimal Feudal Levies;Troupes féodales - Minimum;;;;;;;;;;;;x
 feudal_contract_0_option;Min;Minime;;;;;;;;;;;;x
-feudal_contract_0_desc;Vassal Feudal lords must only provide you with a majority of their levies.;Les seigneurs fÃ©odaux doivent mettre Ã  votre disposition une force minimale.;;;;;;;;;;;;x
-feudal_contract_1;Small Feudal Levies;Troupes fÃ©odales - Petites;;;;;;;;;;;;x
+feudal_contract_0_desc;Vassal Feudal lords must only provide you with a majority of their levies.;Les seigneurs féodaux doivent mettre à votre disposition une force minimale.;;;;;;;;;;;;x
+feudal_contract_1;Small Feudal Levies;Troupes féodales - Petites;;;;;;;;;;;;x
 feudal_contract_1_option;Small;Petites;;;;;;;;;;;;x
-feudal_contract_1_desc;Vassal Feudal lords may retain a significant portion of their levies for themselves.;Les seigneurs fÃ©odaux peuvent conserver l'essentiel de leurs troupes.;;;;;;;;;;;;x
-feudal_contract_2;Normal Feudal Levies;Troupes fÃ©odales - Normales;;;;;;;;;;;;x
+feudal_contract_1_desc;Vassal Feudal lords may retain a significant portion of their levies for themselves.;Les seigneurs féodaux peuvent conserver l'essentiel de leurs troupes.;;;;;;;;;;;;x
+feudal_contract_2;Normal Feudal Levies;Troupes féodales - Normales;;;;;;;;;;;;x
 feudal_contract_2_option;Normal;Normales;;;;;;;;;;;;x
-feudal_contract_2_desc;Vassal Feudal lords retain small mobile retinues in addition to their garrisons.;Les seigneurs fÃ©odaux ne conservent que leur garnisons et une petite suite.;;;;;;;;;;;;x
-feudal_contract_3;Maximum Feudal Levies;Troupes fÃ©odales maximales;;;;;;;;;;;;x
+feudal_contract_2_desc;Vassal Feudal lords retain small mobile retinues in addition to their garrisons.;Les seigneurs féodaux ne conservent que leur garnisons et une petite suite.;;;;;;;;;;;;x
+feudal_contract_3;Maximum Feudal Levies;Troupes féodales maximales;;;;;;;;;;;;x
 feudal_contract_3_option;Max;Totales;;;;;;;;;;;;x
-feudal_contract_3_desc;Vassal Feudal lords are obliged to provide their entire levy.;Les seigneurs fÃ©odaux sont tenus de mettre Ã  disposition toutes leurs troupes.;;;;;;;;;;;;x
-feudal_tax;Feudal Taxation;ImpÃ´ts fÃ©odaux;;;;;;;;;;;;x
-feudal_tax_desc;Normally, feudal lords are exempt from paying taxes to their liege. However, other arrangements are fairly common - if not well liked.;Traditionnellement, les seigneurs fÃ©odaux ne sont pas tenus de payer des impÃ´ts. Mais dâ€™autres dispositions peuvent Ã©videmment Ãªtre prises.;;;;;;;;;;;;x
-feudal_tax_0;Tax Exemption;ExonÃ©ration dâ€™impÃ´ts;;;;;;;;;;;;x
+feudal_contract_3_desc;Vassal Feudal lords are obliged to provide their entire levy.;Les seigneurs féodaux sont tenus de mettre à disposition toutes leurs troupes.;;;;;;;;;;;;x
+feudal_tax;Feudal Taxation;Impôts féodaux;;;;;;;;;;;;x
+feudal_tax_desc;Normally, feudal lords are exempt from paying taxes to their liege. However, other arrangements are fairly common - if not well liked.;Traditionnellement, les seigneurs féodaux ne sont pas tenus de payer des impôts. Mais d’autres dispositions peuvent évidemment être prises.;;;;;;;;;;;;x
+feudal_tax_0;Tax Exemption;Exonération d’impôts;;;;;;;;;;;;x
 feudal_tax_0_option;None;Aucune;;;;;;;;;;;;x
 feudal_tax_1_option;Small;Minimes;;;;;;;;;;;;x
-feudal_tax_1_desc;Feudal lords are expected to make a small financial contribution towards the greater good of the realm. They are mildly disappointed in this.;Les seigneurs fÃ©odaux sont tenus de verser une petite contribution financiÃ¨re pour le bien de la Cour, ce quâ€™ils nâ€™apprÃ©cient pas vraiment.;;;;;;;;;;;;x
+feudal_tax_1_desc;Feudal lords are expected to make a small financial contribution towards the greater good of the realm. They are mildly disappointed in this.;Les seigneurs féodaux sont tenus de verser une petite contribution financière pour le bien de la Cour, ce qu’ils n’apprécient pas vraiment.;;;;;;;;;;;;x
 feudal_tax_2_option;Large;Moyens;;;;;;;;;;;;x
-feudal_tax_2_desc;Feudal lords are expected to make a substantial financial contribution towards the greater good of the realm. They also wish to express their general disappointment at this state of affairs.;Les seigneurs fÃ©odaux sont tenus de verser une importante contribution pour le bien de la Cour, ce quâ€™ils nâ€™apprÃ©cient absolument pas.;;;;;;;;;;;;x
-feudal_tax_3_option;Harsh;Ã‰levÃ©s;;;;;;;;;;;;x
-feudal_tax_3_desc;Feudal lords are expected to make a large financial contribution towards the greater good of the realm. They find it hard to fully express their disgust at this state of affairs.;Les seigneurs fÃ©odaux sont tenus de verser une lourde contribution financiÃ¨re pour le bien de la Cour, ce quâ€™ils dÃ©sapprouvent catÃ©goriquement.;;;;;;;;;;;;x
-city_contract;City Levies;Troupes des citÃ©s;;;;;;;;;;;;x
-city_contract_desc;City Levy laws concern the obligations of cities to provide troops for their liege.;Les lois relatives aux troupes des citÃ©s dÃ©terminent leur obligation Ã  fournir des troupes Ã  leur suzerain.;;;;;;;;;;;;x
-city_contract_0;Minimal City Levies;Troupes des citÃ©s - Minimum;;;;;;;;;;;;x
+feudal_tax_2_desc;Feudal lords are expected to make a substantial financial contribution towards the greater good of the realm. They also wish to express their general disappointment at this state of affairs.;Les seigneurs féodaux sont tenus de verser une importante contribution pour le bien de la Cour, ce qu’ils n’apprécient absolument pas.;;;;;;;;;;;;x
+feudal_tax_3_option;Harsh;Élevés;;;;;;;;;;;;x
+feudal_tax_3_desc;Feudal lords are expected to make a large financial contribution towards the greater good of the realm. They find it hard to fully express their disgust at this state of affairs.;Les seigneurs féodaux sont tenus de verser une lourde contribution financière pour le bien de la Cour, ce qu’ils désapprouvent catégoriquement.;;;;;;;;;;;;x
+city_contract;City Levies;Troupes des cités;;;;;;;;;;;;x
+city_contract_desc;City Levy laws concern the obligations of cities to provide troops for their liege.;Les lois relatives aux troupes des cités déterminent leur obligation à fournir des troupes à leur suzerain.;;;;;;;;;;;;x
+city_contract_0;Minimal City Levies;Troupes des cités - Minimum;;;;;;;;;;;;x
 city_contract_0_option;Min;Minime;;;;;;;;;;;;x
-city_contract_1;Normal City Levies;Troupes des citÃ©s - Normales;;;;;;;;;;;;x
+city_contract_1;Normal City Levies;Troupes des cités - Normales;;;;;;;;;;;;x
 city_contract_1_option;Normal;Normales;;;;;;;;;;;;x
-city_contract_2;Large City Levies;Troupes des citÃ©s - Importantes;;;;;;;;;;;;x
+city_contract_2;Large City Levies;Troupes des cités - Importantes;;;;;;;;;;;;x
 city_contract_2_option;Large;Moyens;;;;;;;;;;;;x
-city_contract_3;Maximum City Levies;Troupes des citÃ©s - Maximales;;;;;;;;;;;;x
+city_contract_3;Maximum City Levies;Troupes des cités - Maximales;;;;;;;;;;;;x
 city_contract_3_option;Max;Totales;;;;;;;;;;;;x
-city_tax;City Taxation;ImpÃ´ts des citÃ©s;;;;;;;;;;;;x
-city_tax_desc;The cities are the golden geese of any country, but their taxation can be adjusted through laws.;Les citÃ©s sont les poules aux Å“ufs dâ€™or dâ€™un pays, mais leurs impÃ´ts peuvent Ãªtre ajustÃ©s au moyen de lois.;;;;;;;;;;;;x
-city_tax_0;Minimal City Taxes;ImpÃ´ts des citÃ©s - Minimum;;;;;;;;;;;;x
+city_tax;City Taxation;Impôts des cités;;;;;;;;;;;;x
+city_tax_desc;The cities are the golden geese of any country, but their taxation can be adjusted through laws.;Les cités sont les poules aux œufs d’or d’un pays, mais leurs impôts peuvent être ajustés au moyen de lois.;;;;;;;;;;;;x
+city_tax_0;Minimal City Taxes;Impôts des cités - Minimum;;;;;;;;;;;;x
 city_tax_0_option;Min;Minime;;;;;;;;;;;;x
-city_tax_0_desc;The Burghers are expected to make a small financial contribution to the greater good of the realm.;Les bourgeois doivent apporter une petite contribution financiÃ¨re pour le bien de la Cour.;;;;;;;;;;;;x
-city_tax_1;Normal City Taxes;ImpÃ´ts des citÃ©s - Normaux;;;;;;;;;;;;x
+city_tax_0_desc;The Burghers are expected to make a small financial contribution to the greater good of the realm.;Les bourgeois doivent apporter une petite contribution financière pour le bien de la Cour.;;;;;;;;;;;;x
+city_tax_1;Normal City Taxes;Impôts des cités - Normaux;;;;;;;;;;;;x
 city_tax_1_option;Normal;Normaux;;;;;;;;;;;;x
-city_tax_1_desc;The Burghers are expected to make a moderate financial contribution to the greater good of the realm.;Les bourgeois doivent apporter une contribution financiÃ¨re modÃ©rÃ©e pour le bien de la Cour.;;;;;;;;;;;;x
-city_tax_2;Large City Tax;ImpÃ´ts des citÃ©s - Importants;;;;;;;;;;;;x
+city_tax_1_desc;The Burghers are expected to make a moderate financial contribution to the greater good of the realm.;Les bourgeois doivent apporter une contribution financière modérée pour le bien de la Cour.;;;;;;;;;;;;x
+city_tax_2;Large City Tax;Impôts des cités - Importants;;;;;;;;;;;;x
 city_tax_2_option;Large;Moyens;;;;;;;;;;;;x
-city_tax_2_desc;The Burghers are expected to make a substantial financial contribution to the greater good of the realm.;Les bourgeois doivent apporter une contribution financiÃ¨re substantielle pour le bien de la Cour.;;;;;;;;;;;;x
-city_tax_3;Harsh City Tax;ImpÃ´ts des citÃ©s - Lourds;;;;;;;;;;;;x
-city_tax_3_option;Harsh;Ã‰levÃ©s;;;;;;;;;;;;x
-city_tax_3_desc;The Burghers are expected to make a large financial contribution to the greater good of the realm. ;Les bourgeois doivent apporter une trÃ¨s lourde contribution financiÃ¨re pour le bien de la Cour. ;;;;;;;;;;;;x
-temple_contract;Church Levies;Troupes clÃ©ricales;;;;;;;;;;;;x
-temple_contract_desc;These laws control the size of the levies that vassal pontiffs are formally obliged to provide their secular liege.;Ces lois dÃ©terminent les effectifs militaires que les vassaux ecclÃ©siastiques sont tenus de mettre Ã  la disposition de leur suzerain sÃ©culaire.;;;;;;;;;;;;x
-temple_contract_0;Minimal Church Levies;Troupes clÃ©ricales â€“ Minimum;;;;;;;;;;;;x
+city_tax_2_desc;The Burghers are expected to make a substantial financial contribution to the greater good of the realm.;Les bourgeois doivent apporter une contribution financière substantielle pour le bien de la Cour.;;;;;;;;;;;;x
+city_tax_3;Harsh City Tax;Impôts des cités - Lourds;;;;;;;;;;;;x
+city_tax_3_option;Harsh;Élevés;;;;;;;;;;;;x
+city_tax_3_desc;The Burghers are expected to make a large financial contribution to the greater good of the realm. ;Les bourgeois doivent apporter une très lourde contribution financière pour le bien de la Cour. ;;;;;;;;;;;;x
+temple_contract;Church Levies;Troupes cléricales;;;;;;;;;;;;x
+temple_contract_desc;These laws control the size of the levies that vassal pontiffs are formally obliged to provide their secular liege.;Ces lois déterminent les effectifs militaires que les vassaux ecclésiastiques sont tenus de mettre à la disposition de leur suzerain séculaire.;;;;;;;;;;;;x
+temple_contract_0;Minimal Church Levies;Troupes cléricales – Minimum;;;;;;;;;;;;x
 temple_contract_0_option;Min;Minime;;;;;;;;;;;;x
-temple_contract_0_desc;The Prince-Bishops are expected to provide a small amount of troops for the defense of the realm.;Le clergÃ© est tenu de mettre Ã  disposition un petit pourcentage de troupes pour la dÃ©fense.;;;;;;;;;;;;x
-temple_contract_1;Normal Church Levies;Troupes clÃ©ricales â€“ Normales;;;;;;;;;;;;x
+temple_contract_0_desc;The Prince-Bishops are expected to provide a small amount of troops for the defense of the realm.;Le clergé est tenu de mettre à disposition un petit pourcentage de troupes pour la défense.;;;;;;;;;;;;x
+temple_contract_1;Normal Church Levies;Troupes cléricales – Normales;;;;;;;;;;;;x
 temple_contract_1_option;Normal;Normales;;;;;;;;;;;;x
-temple_contract_1_desc;The Prince-Bishops are expected to provide a moderate amount of troops for the defense of the realm.;Le clergÃ© est tenu de mettre Ã  disposition un pourcentage raisonnable de troupes pour la dÃ©fense.;;;;;;;;;;;;x
-temple_contract_2;Large Church Levies;Troupes clÃ©ricales - Importantes;;;;;;;;;;;;x
+temple_contract_1_desc;The Prince-Bishops are expected to provide a moderate amount of troops for the defense of the realm.;Le clergé est tenu de mettre à disposition un pourcentage raisonnable de troupes pour la défense.;;;;;;;;;;;;x
+temple_contract_2;Large Church Levies;Troupes cléricales - Importantes;;;;;;;;;;;;x
 temple_contract_2_option;Large;Moyens;;;;;;;;;;;;x
-temple_contract_2_desc;The Prince-Bishops are expected to provide a substantial amount of troops for the defense of the realm. ;Le clergÃ© est tenu de mettre Ã  disposition un pourcentage important de troupes pour la dÃ©fense. ;;;;;;;;;;;;x
-temple_contract_3;Maximum Church Levies;Troupes clÃ©ricales - Maximum;;;;;;;;;;;;x
-temple_contract_3_desc;The Prince-Bishops are expected to provide a large amount of troops for the defense of the realm. ;Le clergÃ© est tenu de mettre Ã  disposition un important pourcentage de troupes pour la dÃ©fense. ;;;;;;;;;;;;x
-temple_tax;Church Taxation;ImpÃ´ts clÃ©ricaux;;;;;;;;;;;;x
-temple_tax_desc;Church vassals nominally provide their secular liege with a significant tithe - unless they like the head of their religion better!;Les vassaux ecclÃ©siastiques sont tenus de verser Ã  leur suzerain sÃ©culaire une dÃ®me non nÃ©gligeable, sauf sâ€™ils prÃ©fÃ¨rent leur chef de leur religion !;;;;;;;;;;;;x
-temple_tax_0;No Church Tax;Aucun impÃ´t clÃ©rical;;;;;;;;;;;;x
-temple_tax_0_desc;Landed Priests are exempt from taxes.;Le clergÃ© est exonÃ©rÃ© dâ€™impÃ´ts.;;;;;;;;;;;;x
-temple_tax_1;Minimal Church Tax;ImpÃ´ts clÃ©ricaux - Minimum;;;;;;;;;;;;x
-temple_tax_1_desc;Landed Priests are expected to make a small financial contribution to the greater good of the realm.;Le clergÃ© doit apporter une petite contribution financiÃ¨re pour le bien de la Cour.;;;;;;;;;;;;x
-temple_tax_2;Medium Church Tax;ImpÃ´ts clÃ©ricaux â€“ Moyens;;;;;;;;;;;;x
+temple_contract_2_desc;The Prince-Bishops are expected to provide a substantial amount of troops for the defense of the realm. ;Le clergé est tenu de mettre à disposition un pourcentage important de troupes pour la défense. ;;;;;;;;;;;;x
+temple_contract_3;Maximum Church Levies;Troupes cléricales - Maximum;;;;;;;;;;;;x
+temple_contract_3_desc;The Prince-Bishops are expected to provide a large amount of troops for the defense of the realm. ;Le clergé est tenu de mettre à disposition un important pourcentage de troupes pour la défense. ;;;;;;;;;;;;x
+temple_tax;Church Taxation;Impôts cléricaux;;;;;;;;;;;;x
+temple_tax_desc;Church vassals nominally provide their secular liege with a significant tithe - unless they like the head of their religion better!;Les vassaux ecclésiastiques sont tenus de verser à leur suzerain séculaire une dîme non négligeable, sauf s’ils préfèrent leur chef de leur religion !;;;;;;;;;;;;x
+temple_tax_0;No Church Tax;Aucun impôt clérical;;;;;;;;;;;;x
+temple_tax_0_desc;Landed Priests are exempt from taxes.;Le clergé est exonéré d’impôts.;;;;;;;;;;;;x
+temple_tax_1;Minimal Church Tax;Impôts cléricaux - Minimum;;;;;;;;;;;;x
+temple_tax_1_desc;Landed Priests are expected to make a small financial contribution to the greater good of the realm.;Le clergé doit apporter une petite contribution financière pour le bien de la Cour.;;;;;;;;;;;;x
+temple_tax_2;Medium Church Tax;Impôts cléricaux – Moyens;;;;;;;;;;;;x
 temple_tax_2_option;Medium;Moyens;;;;;;;;;;;;x
-temple_tax_2_desc;Landed Priests are expected to make a moderate financial contribution to the greater good of the realm.;Le clergÃ© doit apporter une contribution financiÃ¨re moyenne pour le bien de la Cour.;;;;;;;;;;;;x
-temple_tax_3;Large Church Tax;ImpÃ´ts clÃ©ricaux â€“ Importants;;;;;;;;;;;;x
-temple_tax_3_option;Large;ElevÃ©s;;;;;;;;;;;;x
-temple_tax_3_desc;Landed Priests are expected to make a substantial financial contribution to the greater good of the realm. ;Le clergÃ© doit apporter une importante contribution financiÃ¨re pour le bien. ;;;;;;;;;;;;x
-investiture_law_desc;This law determines who appoints Bishops - the Pope or the secular liege.;Cette loi dÃ©termine qui, du Pape ou du suzerain sÃ©culier, nomme les Ã©vÃªques.;;;;;;;;;;;;x
-investiture_law_0_desc;Only the Pope may appoint Bishops within the Realm. This will give the Crown a Â§G50%Â§! Piety cost discount when requesting special papal actions, like Divorce and Excommunication.;Seul le Pape peut nommer les Ã©vÃªques du Royaume. Cela confÃ¨re Ã  la Couronne un crÃ©dit de Â§G50%Â§! de piÃ©tÃ© lorsquâ€™elle sollicite des actions papales spÃ©cifiques, comme le divorce ou lâ€™excommunication.;;;;;;;;;;;;x
-investiture_law_1_desc;Bishops within the kingdom can be appointed by their secular lieges, and will be more loyal to their liege. The Pope will not be pleased.;Le suzerain sÃ©culier peut nommer les Ã©vÃªques du Royaume, ce qui renforce leur loyautÃ© et ne plaÃ®t guÃ¨re au Pape.;;;;;;;;;;;;x
-crown_city_charters_only_desc;Cities within the Kingdom can only be chartered by (be vassals of) the King.;Les chartes des citÃ©s du Royaume ne peuvent Ãªtre dÃ©terminÃ©es que par le roi.;;;;;;;;;;;;x
-LOADING_TIP_1;Seniority succession is a great way to reunite your family lands but for some reason tends to lower your life expectancy.;Le SÃ©niorat permet de rÃ©unir les terres familiales, mais tend Ã  rÃ©duire votre espÃ©rance de vie.;;;;;;;;;;;;x
+temple_tax_2_desc;Landed Priests are expected to make a moderate financial contribution to the greater good of the realm.;Le clergé doit apporter une contribution financière moyenne pour le bien de la Cour.;;;;;;;;;;;;x
+temple_tax_3;Large Church Tax;Impôts cléricaux – Importants;;;;;;;;;;;;x
+temple_tax_3_option;Large;Elevés;;;;;;;;;;;;x
+temple_tax_3_desc;Landed Priests are expected to make a substantial financial contribution to the greater good of the realm. ;Le clergé doit apporter une importante contribution financière pour le bien. ;;;;;;;;;;;;x
+investiture_law_desc;This law determines who appoints Bishops - the Pope or the secular liege.;Cette loi détermine qui, du Pape ou du suzerain séculier, nomme les évêques.;;;;;;;;;;;;x
+investiture_law_0_desc;Only the Pope may appoint Bishops within the Realm. This will give the Crown a §G50%§! Piety cost discount when requesting special papal actions, like Divorce and Excommunication.;Seul le Pape peut nommer les évêques du Royaume. Cela confère à la Couronne un crédit de §G50%§! de piété lorsqu’elle sollicite des actions papales spécifiques, comme le divorce ou l’excommunication.;;;;;;;;;;;;x
+investiture_law_1_desc;Bishops within the kingdom can be appointed by their secular lieges, and will be more loyal to their liege. The Pope will not be pleased.;Le suzerain séculier peut nommer les évêques du Royaume, ce qui renforce leur loyauté et ne plaît guère au Pape.;;;;;;;;;;;;x
+crown_city_charters_only_desc;Cities within the Kingdom can only be chartered by (be vassals of) the King.;Les chartes des cités du Royaume ne peuvent être déterminées que par le roi.;;;;;;;;;;;;x
+LOADING_TIP_1;Seniority succession is a great way to reunite your family lands but for some reason tends to lower your life expectancy.;Le Séniorat permet de réunir les terres familiales, mais tend à réduire votre espérance de vie.;;;;;;;;;;;;x
 SUCCESSION_SETUP;Succession Inheritance;Succession;;;;;;;;;;;;x
-ALLIED_WAR_ENDS_LOG;The Â§Y$WAR$Â§! has ended: $OUTCOME$;La guerre Â§Y$WAR$Â§! a pris fin : $OUTCOME$;;;;;;;;;;;;x
-ALLIED_WAR_ENDS_OUTCOME_WINNER;Â§Y$WHO$Â§! won!;Â§Y$WHO$Â§! a gagnÃ© !;;;;;;;;;;;;x
-ALLIED_WAR_ENDS_OUTCOME_LOSER;Â§Y$WHO$Â§! lost!;Â§Y$WHO$Â§! a perdu !;;;;;;;;;;;;x
+ALLIED_WAR_ENDS_LOG;The §Y$WAR$§! has ended: $OUTCOME$;La guerre §Y$WAR$§! a pris fin : $OUTCOME$;;;;;;;;;;;;x
+ALLIED_WAR_ENDS_OUTCOME_WINNER;§Y$WHO$§! won!;§Y$WHO$§! a gagné !;;;;;;;;;;;;x
+ALLIED_WAR_ENDS_OUTCOME_LOSER;§Y$WHO$§! lost!;§Y$WHO$§! a perdu !;;;;;;;;;;;;x
 ALLIED_WAR_ENDS_OUTCOME_WHITE;White Peace!;Paix blanche !;;;;;;;;;;;;x
-ENEMY_CALLS_IN_ALLY_LOG;Â§Y$ENEMY$Â§! has called Â§Y$WHO$Â§! into the Â§Y$WAR$Â§!;Â§Y$ENEMY$Â§! a sollicitÃ© Â§Y$WHO$Â§! pour participer Ã  Â§Y$WAR$Â§!;;;;;;;;;;;;x
-VASSAL_DEFECTION_SETUP;Vassal Defection!;DÃ©fection dâ€™un vassal !;;;;;;;;;;;;x
-WE_JOIN_A_WAR_LOG;Â§Y$FRIEND$Â§! has called us into the Â§Y$WAR$Â§!!;Â§Y$FRIEND$Â§! a fait appel Ã  nous pour participer Ã  Â§Y$WAR$Â§!!;;;;;;;;;;;;x
-castle_desc;Castles are feudal holdings that come with an associated Barony. They are highly defensible and provide the highest quality levies. However, tax income is lower than from Cities or Temples.;Les chÃ¢teaux sont des fiefs fÃ©odaux associÃ©es Ã  une baronnie. Ils sont hautement dÃ©fendus et fournissent les meilleures troupes. Cela Ã©tant, leurs revenus fiscaux sont moindres que ceux des citÃ©s ou des temples.;;;;;;;;;;;;x
-city_desc;Cities are commercial hubs dominated by the burgher class. Cities are rich and provide a lot of tax, especially if administrated by a burgher character - a Mayor. However, city levies are of relatively low quality.;Les citÃ©s sont des centres commerciaux dominÃ©s par la classe bourgeoise. Elles sont riches et fournissent dâ€™importants revenus fiscaux, notamment si elles sont administrÃ©es par un maire. Cela Ã©tant, les troupes des citÃ©s sont relativement mÃ©diocres.;;;;;;;;;;;;x
-CITY_TAX_MODIFIER;City Tax;ImpÃ´ts des citÃ©s;;;;;;;;;;;;x
-CASTLE_TAX_MODIFIER;Castle Tax;ImpÃ´ts des chÃ¢teaux;;;;;;;;;;;;x
-TEMPLE_TAX_MODIFIER;Temple Tax;ImpÃ´ts des temples;;;;;;;;;;;;x
-TRADE_POST_TAX_MODIFIER;Trade Post Tax;ImpÃ´ts des comptoirs;;;;;;;;;;;;x
-de_jure_liege_hog;Holding De Jure Liege Title;DÃ©tention dâ€™un titre de suzerain de Jure;;;;;;;;;;;;x
-CITY_VASSAL_TAX_MODIFIER;Burgher Vassal Tax;ImpÃ´ts vassal â€“ Bourgeois;;;;;;;;;;;;x
-CASTLE_VASSAL_TAX_MODIFIER;Noble Vassal Tax;ImpÃ´ts vassal â€“ Noble;;;;;;;;;;;;x
-TEMPLE_VASSAL_TAX_MODIFIER;Clergy Vassal Tax;ImpÃ´ts vassal â€“ ClergÃ©;;;;;;;;;;;;x
-CITY_VASSAL_MIN_LEVY;Burgher Vassal Min Levy;Troupes min â€“ Vassal bourgeois;;;;;;;;;;;;x
-CASTLE_VASSAL_MIN_LEVY;Noble Vassal Min Levy;Troupes min â€“ Vassal noble;;;;;;;;;;;;x
-TEMPLE_VASSAL_MIN_LEVY;Clergy Vassal Min Levy;Troupes min â€“ Vassal ecclÃ©siastique;;;;;;;;;;;;x
-CITY_VASSAL_MAX_LEVY;Burgher Vassal Max Levy;Troupes max â€“ Vassal bourgeois;;;;;;;;;;;;x
-CASTLE_VASSAL_MAX_LEVY;Noble Vassal Max Levy;Troupes max â€“ Vassal noble;;;;;;;;;;;;x
-TEMPLE_VASSAL_MAX_LEVY;Clergy Vassal Max Levy;Troupes max â€“ Vassal ecclÃ©siastique;;;;;;;;;;;;x
-CROWN_CITY_VASSAL_MIN_LEVY;Crown Cities Min Levy;Troupes min â€“ CitÃ©s de la Couronne;;;;;;;;;;;;x
-CROWN_CASTLE_VASSAL_MIN_LEVY;Crown Castles Min Levy;Troupes min â€“ ChÃ¢teaux de la Couronne;;;;;;;;;;;;x
-CROWN_TEMPLE_VASSAL_MIN_LEVY;Crown Churches Min Levy;Troupes min â€“ Ã‰glises de la Couronne;;;;;;;;;;;;x
-bad_succ_law_change;Outraged by Succession Law Change;Scandale face Ã  la nouvelle loi de succession;;;;;;;;;;;;x
-good_succ_law_change;Pleased by Succession Law Change;Satisfaction face Ã  la nouvelle loi de succession;;;;;;;;;;;;x
-succ_law_change;Upset by Succession Law Change;InquiÃ©tude face Ã  la nouvelle loi de succession;;;;;;;;;;;;x
-claimant_vs_holder;Title Claimant;PrÃ©tendant au titre;;;;;;;;;;;;x
-opinion_ally;Ally;AlliÃ©;;;;;;;;;;;;x
-WARREQDESC;Do you wish to declare war against $COUNTRY$;Voulez-vous dÃ©clarer la guerre Ã  $COUNTRY$ ?;;;;;;;;;;;;x
-NO_WAR_WHEN_REGENCY;While we have a Regency Council, we can not start any wars.;Il faudra attendre la fin de la RÃ©gence pour dÃ©clencher une nouvelle guerre.;;;;;;;;;;;;x
-WARDESC;While at war with a nation you can move your troops into its territory. By occupying its counties and demanding them in return for a Peace you conquer enemy counties. Unless you have a Casus Belli your Stability will suffer greatly from a declaration of war.;Une guerre avec un autre pays permet de dÃ©placer des troupes sur son territoire. Pour conquÃ©rir des provinces, occupez-les et exigez de les conserver en Ã©change de la paix. Sauf casus belli, votre stabilitÃ© pÃ¢tit d'une dÃ©claration de guerre.;;;;;;;;;;;;x
-NO_WAR_ALLIED;You may not declare war upon a country which you have an Alliance with. Break the Alliance first.;Vous ne pouvez pas dÃ©clarer la guerre Ã  un pays auquel vous Ãªtes alliÃ©. Rompez dâ€˜abord lâ€™alliance.;;;;;;;;;;;;x
-NO_WAR_CHAOS;You may not declare war at the moment as your country is too disorganized. Get above -3 stability first;Vous ne pouvez pas dÃ©clarer la guerre pour le moment, car votre pays est trop dÃ©sorganisÃ©. Remontez dâ€™abord votre stabilitÃ© au-dessus de -3.;;;;;;;;;;;;x
-MILITARY_MENU;Â§YMilitaryÂ§!;Militaire;;;;;;;;;;;;x
-PROV79;Zeeland;ZÃ©lande;;;;;;;;;;;;x
+ENEMY_CALLS_IN_ALLY_LOG;§Y$ENEMY$§! has called §Y$WHO$§! into the §Y$WAR$§!;§Y$ENEMY$§! a sollicité §Y$WHO$§! pour participer à §Y$WAR$§!;;;;;;;;;;;;x
+VASSAL_DEFECTION_SETUP;Vassal Defection!;Défection d’un vassal !;;;;;;;;;;;;x
+WE_JOIN_A_WAR_LOG;§Y$FRIEND$§! has called us into the §Y$WAR$§!!;§Y$FRIEND$§! a fait appel à nous pour participer à §Y$WAR$§!!;;;;;;;;;;;;x
+castle_desc;Castles are feudal holdings that come with an associated Barony. They are highly defensible and provide the highest quality levies. However, tax income is lower than from Cities or Temples.;Les châteaux sont des fiefs féodaux associées à une baronnie. Ils sont hautement défendus et fournissent les meilleures troupes. Cela étant, leurs revenus fiscaux sont moindres que ceux des cités ou des temples.;;;;;;;;;;;;x
+city_desc;Cities are commercial hubs dominated by the burgher class. Cities are rich and provide a lot of tax, especially if administrated by a burgher character - a Mayor. However, city levies are of relatively low quality.;Les cités sont des centres commerciaux dominés par la classe bourgeoise. Elles sont riches et fournissent d’importants revenus fiscaux, notamment si elles sont administrées par un maire. Cela étant, les troupes des cités sont relativement médiocres.;;;;;;;;;;;;x
+CITY_TAX_MODIFIER;City Tax;Impôts des cités;;;;;;;;;;;;x
+CASTLE_TAX_MODIFIER;Castle Tax;Impôts des châteaux;;;;;;;;;;;;x
+TEMPLE_TAX_MODIFIER;Temple Tax;Impôts des temples;;;;;;;;;;;;x
+TRADE_POST_TAX_MODIFIER;Trade Post Tax;Impôts des comptoirs;;;;;;;;;;;;x
+de_jure_liege_hog;Holding De Jure Liege Title;Détention d’un titre de suzerain de Jure;;;;;;;;;;;;x
+CITY_VASSAL_TAX_MODIFIER;Burgher Vassal Tax;Impôts vassal – Bourgeois;;;;;;;;;;;;x
+CASTLE_VASSAL_TAX_MODIFIER;Noble Vassal Tax;Impôts vassal – Noble;;;;;;;;;;;;x
+TEMPLE_VASSAL_TAX_MODIFIER;Clergy Vassal Tax;Impôts vassal – Clergé;;;;;;;;;;;;x
+CITY_VASSAL_MIN_LEVY;Burgher Vassal Min Levy;Troupes min – Vassal bourgeois;;;;;;;;;;;;x
+CASTLE_VASSAL_MIN_LEVY;Noble Vassal Min Levy;Troupes min – Vassal noble;;;;;;;;;;;;x
+TEMPLE_VASSAL_MIN_LEVY;Clergy Vassal Min Levy;Troupes min – Vassal ecclésiastique;;;;;;;;;;;;x
+CITY_VASSAL_MAX_LEVY;Burgher Vassal Max Levy;Troupes max – Vassal bourgeois;;;;;;;;;;;;x
+CASTLE_VASSAL_MAX_LEVY;Noble Vassal Max Levy;Troupes max – Vassal noble;;;;;;;;;;;;x
+TEMPLE_VASSAL_MAX_LEVY;Clergy Vassal Max Levy;Troupes max – Vassal ecclésiastique;;;;;;;;;;;;x
+CROWN_CITY_VASSAL_MIN_LEVY;Crown Cities Min Levy;Troupes min – Cités de la Couronne;;;;;;;;;;;;x
+CROWN_CASTLE_VASSAL_MIN_LEVY;Crown Castles Min Levy;Troupes min – Châteaux de la Couronne;;;;;;;;;;;;x
+CROWN_TEMPLE_VASSAL_MIN_LEVY;Crown Churches Min Levy;Troupes min – Églises de la Couronne;;;;;;;;;;;;x
+bad_succ_law_change;Outraged by Succession Law Change;Scandale face à la nouvelle loi de succession;;;;;;;;;;;;x
+good_succ_law_change;Pleased by Succession Law Change;Satisfaction face à la nouvelle loi de succession;;;;;;;;;;;;x
+succ_law_change;Upset by Succession Law Change;Inquiétude face à la nouvelle loi de succession;;;;;;;;;;;;x
+claimant_vs_holder;Title Claimant;Prétendant au titre;;;;;;;;;;;;x
+opinion_ally;Ally;Allié;;;;;;;;;;;;x
+WARREQDESC;Do you wish to declare war against $COUNTRY$;Voulez-vous déclarer la guerre à $COUNTRY$ ?;;;;;;;;;;;;x
+NO_WAR_WHEN_REGENCY;While we have a Regency Council, we can not start any wars.;Il faudra attendre la fin de la Régence pour déclencher une nouvelle guerre.;;;;;;;;;;;;x
+WARDESC;While at war with a nation you can move your troops into its territory. By occupying its counties and demanding them in return for a Peace you conquer enemy counties. Unless you have a Casus Belli your Stability will suffer greatly from a declaration of war.;Une guerre avec un autre pays permet de déplacer des troupes sur son territoire. Pour conquérir des provinces, occupez-les et exigez de les conserver en échange de la paix. Sauf casus belli, votre stabilité pâtit d'une déclaration de guerre.;;;;;;;;;;;;x
+NO_WAR_ALLIED;You may not declare war upon a country which you have an Alliance with. Break the Alliance first.;Vous ne pouvez pas déclarer la guerre à un pays auquel vous êtes allié. Rompez d‘abord l’alliance.;;;;;;;;;;;;x
+NO_WAR_CHAOS;You may not declare war at the moment as your country is too disorganized. Get above -3 stability first;Vous ne pouvez pas déclarer la guerre pour le moment, car votre pays est trop désorganisé. Remontez d’abord votre stabilité au-dessus de -3.;;;;;;;;;;;;x
+MILITARY_MENU;§YMilitary§!;Militaire;;;;;;;;;;;;x
+PROV79;Zeeland;Zélande;;;;;;;;;;;;x
 PROV157;Santiago;Compostelle;;;;;;;;;;;;x
 PROV194;Plasencia;Plasence;;;;;;;;;;;;x
-PROV220;Melgueil;NÃ®mes;;;;;;;;;;;;x
-PROV246;Grisons;RhÃ©tie;;;;;;;;;;;;x
+PROV220;Melgueil;Nîmes;;;;;;;;;;;;x
+PROV246;Grisons;Rhétie;;;;;;;;;;;;x
 PROV248;St. Gallen;Saint Gall;;;;;;;;;;;;x
-PROV280;Westrobothnia;VÃ¤sterbotten;;;;;;;;;;;;x
-PROV288;Wermelandia;VÃ¤rmland;;;;;;;;;;;;x
-PROV292;Sudermannia;SÃ¶dermanland;;;;;;;;;;;;x
-PROV293;Ostrogothia;Ã–stergÃ¶tland;;;;;;;;;;;;x
-PROV297;Westrogothia;VÃ¤stergÃ¶tland;;;;;;;;;;;;x
-PROV377;LÃ¤Ã¤nemaa;LÃ¤Ã¤ne;;;;;;;;;;;;x
-PROV383;Tavastia;HÃ¤me;;;;;;;;;;;;x
-PROV397;Saamod;SamoyÃ©die;;;;;;;;;;;;x
+PROV280;Westrobothnia;Västerbotten;;;;;;;;;;;;x
+PROV288;Wermelandia;Värmland;;;;;;;;;;;;x
+PROV292;Sudermannia;Södermanland;;;;;;;;;;;;x
+PROV293;Ostrogothia;Östergötland;;;;;;;;;;;;x
+PROV297;Westrogothia;Västergötland;;;;;;;;;;;;x
+PROV377;Läänemaa;Lääne;;;;;;;;;;;;x
+PROV383;Tavastia;Häme;;;;;;;;;;;;x
+PROV397;Saamod;Samoyédie;;;;;;;;;;;;x
 PROV416;Latgale;Latgalie;;;;;;;;;;;;x
 PROV610;Bolghar;Bulgarie;;;;;;;;;;;;x
 PROV627;Kara-Kum;Karakoum;;;;;;;;;;;;x
@@ -453,28 +453,28 @@ PROV642;Larestan;Ladistan;;;;;;;;;;;;x
 PROV804;Al Alamayn;El Alamein;;;;;;;;;;;;x
 PROV1017;Western Cyclades;Mer de Myrto;;;;;;;;;;;;x
 PROV1033;Golfe de Hammamet;Canal de Sicile;;;;;;;;;;;;x
-PROV940;Sea of Palestine;CÃ´te de Palestine;;;;;;;;;;;;x
-PROV943;NÃ¤sijÃ¤rvi;Lac NÃ¤sijÃ¤rvi;;;;;;;;;;;;x
+PROV940;Sea of Palestine;Côte de Palestine;;;;;;;;;;;;x
+PROV943;Näsijärvi;Lac Näsijärvi;;;;;;;;;;;;x
 PROV946;Cilician Sea;Golfe d'Antalya;;;;;;;;;;;;x
-PROV951;Coast of Kolkhida;CÃ´te de Colchis;;;;;;;;;;;;x
+PROV951;Coast of Kolkhida;Côte de Colchis;;;;;;;;;;;;x
 PROV955;Saimaa;Lac Saimaa;;;;;;;;;;;;x
 PROV956;Kallavesi;Lac Kallavesi;;;;;;;;;;;;x
-PROV957;OulujÃ¤rvi;Lac Oulu;;;;;;;;;;;;x
+PROV957;Oulujärvi;Lac Oulu;;;;;;;;;;;;x
 PROV958;Ladoga;Lac Ladoga;;;;;;;;;;;;x
-PROV959;MÃ¤laren;Lac MÃ¤lar;;;;;;;;;;;;x
-PROV961;HjÃ¤lmaren;Lac HjÃ¤lmaren;;;;;;;;;;;;x
+PROV959;Mälaren;Lac Mälar;;;;;;;;;;;;x
+PROV961;Hjälmaren;Lac Hjälmaren;;;;;;;;;;;;x
 PROV966;The Solent;Solent;;;;;;;;;;;;x
 PROV972;Kara-Bogaz Gol;Golfe de Kara Bougaz;;;;;;;;;;;;x
 PROV973;Waddenzee;Mer des Wadden;;;;;;;;;;;;x
-PROV974;Bay of Biscay;CÃ´te de Bordeaux;;;;;;;;;;;;x
+PROV974;Bay of Biscay;Côte de Bordeaux;;;;;;;;;;;;x
 PROV990;Sea of Shetland;Yell Sound;;;;;;;;;;;;x
 PROV992;The Minch;Minch du Nord;;;;;;;;;;;;x
 PROV996;The Wash;Golfe du Wash;;;;;;;;;;;;x
 PROV997;Onega;Lac Onega;;;;;;;;;;;;x
-PROV1003;Bight of HanÃ¶;Baie HanÃ¶;;;;;;;;;;;;x
-PROV1011;Mauretanian Coast;CÃ´te de Mauritanie;;;;;;;;;;;;x
+PROV1003;Bight of Hanö;Baie Hanö;;;;;;;;;;;;x
+PROV1011;Mauretanian Coast;Côte de Mauritanie;;;;;;;;;;;;x
 shiite;Shia;Shiite;;;;;;;;;;;;x
-pagan;Pagan;PaÃ¯en;;;;;;;;;;;;x
+pagan;Pagan;Païen;;;;;;;;;;;;x
 waldensian;Waldensian;Vaudois;;;;;;;;;;;;x
 nestorian;Nestorian;Nestorien;;;;;;;;;;;;x
 zoroastrian;Zoroastrian;Zoroastrien;;;;;;;;;;;;x
@@ -482,51 +482,51 @@ GOD_THE_GREATEST;the Greatest;le Plus grand;;;;;;;;;;;;x
 GOD_THE_ALLFATHER;the Allfather;le Tout Puissant;;;;;;;;;;;;x
 TRIBE_OF;Tribe of;Peuple des;;;;;;;;;;;;x
 CALIPH_FOA;Your Imperial Majesty;Commandeur de croyants;;;;;;;;;;;;x
-GRANDMASTER;Grandmaster;Grand-MaÃ®tre;;;;;;;;;;;;x
-HOCHMEISTER;Hochmeister;Grand-MaÃ®tre;;;;;;;;;;;;x
+GRANDMASTER;Grandmaster;Grand-Maître;;;;;;;;;;;;x
+HOCHMEISTER;Hochmeister;Grand-Maître;;;;;;;;;;;;x
 JIHAD;Jihad;Djihad;;;;;;;;;;;;x
-THE;the;Â§YÂ§!;;;;;;;;;;;;x
+THE;the;§Y§!;;;;;;;;;;;;x
 CAP_THE;The;Le(la);;;;;;;;;;;;x
-NATION_OVERVIEW_MENU;Realm;Ã‰tats;;;;;;;;;;;;x
+NATION_OVERVIEW_MENU;Realm;États;;;;;;;;;;;;x
 NOMINATE_SUCCESSOR;Nominate;Nominer;;;;;;;;;;;;x
 COUNTY;County;Comtales;;;;;;;;;;;;x
 DUCAL;Ducal;Ducales;;;;;;;;;;;;x
 ROYAL;Royal;Royales;;;;;;;;;;;;x
-IMPERIAL;Imperial;ImpÃ©riales;;;;;;;;;;;;x
+IMPERIAL;Imperial;Impériales;;;;;;;;;;;;x
 CURRENT_LAWS;Laws;Lois;;;;;;;;;;;;x
-seniority;Seniority;SÃ©niorat;;;;;;;;;;;;x
+seniority;Seniority;Séniorat;;;;;;;;;;;;x
 turkish_succession;Open;Islamique;;;;;;;;;;;;x
 AGNATIC_SUCCESSION;Agnatic Succession;Agnatique;;;;;;;;;;;;x
 COGNATIC_SUCCESSION;Cognatic Succession;Agnatico-cognatique;;;;;;;;;;;;x
-BM_FATE_OF_ENGLAND_DESC;September 20, 1066 AD. King Harold Godwinson rushes to defend the shores of England against the forces of his traitorous brother Tostig and the Norwegian king Harald IV, nicknamed 'HÃ¥rdrÃ¥de' (Hard Ruler). Meanwhile, William, Duke of Normandy, is about to launch his own invasion of England, sanctioned by Pope Alexander II himself. Saxon, Norse, or Norman - who shall rule Albion?;20 septembre 1066. Le roi Harold Godwinson se prÃ©cipite pour dÃ©fendre les rivages de lâ€™Angleterre contre les forces de son traÃ®tre de frÃ¨re, Tostig, et du roi norvÃ©gien Harald III, surnommÃ© 'HÃ¥rdrÃ¥de'. Entre temps, Guillaume, duc de Normandie, sâ€™apprÃªte, lui aussi, Ã  envahir lâ€™Angleterre, sanctionnÃ© par le Pape Alexandre II en personne. Saxons, NorvÃ©giens ou Normandsâ€¦ Qui rÃ©gnera sur Albion ?;;;;;;;;;;;;x
-BM_NORMAN_CONQUEST_DESC;Victorious at the hard-fought Battle of Hastings, William, Duke of Normandy, has proclaimed himself King of England. Displaced Saxon lords rage against the French speaking usurpers as fief after fief is given to William's loyal followers. In Anatolia, the Seljuk Turks under the great sultan Alp Arslan are about to invade the Byzantine Empire in a struggle that will determine the fate of Asia Minor...;AprÃ¨s avoir remportÃ© la redoutable bataille dâ€™Hastings, Guillaume, duc de Normandie, sâ€™est autoproclamÃ© roi dâ€™Angleterre. Les seigneurs saxons sont fous de rage contre ces usurpateurs parlant franÃ§ais en voyant que leurs fiefs sont offerts, les uns aprÃ¨s les autres, aux fidÃ¨les partisans de Guillaume. En Anatolie, les Turcs Seljuks, sous lâ€™autoritÃ© du grand sultan Alp Arslan, sâ€™apprÃªtent Ã  envahir lâ€™Empire byzantin et Ã  livrer une bataille qui scellera le destin de lâ€™Asie mineure...;;;;;;;;;;;;x
-BM_THIRD_CRUSADE_DESC;Jerusalem has fallen to the forces of the great infidel, Saladin, but Henry II of England, Philip II of France, and Holy Roman Emperor Frederick 'Barbarossa' have, in their righteous zeal, ended their petty disputes and stand ready to march against the Moor in the most powerful Crusade yet... Deus Vult!;JÃ©rusalem est aux mains des forces du grand infidÃ¨le, Saladin, mais Henri II dâ€™Angleterre, Philippe II de France et FrÃ©dÃ©ric 'Barberousse' du Saint Empire romain germanique ont mis fin aux querelles qui les opposaient pour unir leurs forces contre les Maures au cours de la plus puissante des croisades... Deus Vult !;;;;;;;;;;;;x
-BM_100_YEARS_WAR_DESC;The death of French King Charles IV in 1328 with no immediate heir triggered a succession dispute that would last for over a hundred years. Edward III of England was the closest living male heir, but the French nobility, balking at the prospect of a foreign king, claimed the line could not pass through a woman, and crowned another pretender - Philip. Nine years later, war broke out...;En 1328, la mort du roi franÃ§ais Charles IV, sans hÃ©ritier immÃ©diat, a donnÃ© lieu Ã  une guerre de succession de plus dâ€™un siÃ¨cle. Ã‰douard III dâ€™Angleterre Ã©tait son hÃ©ritier le plus proche, mais la noblesse franÃ§aise, horrifiÃ©e par lâ€™idÃ©e de voir un Ã©tranger monter sur le trÃ´ne, a refusÃ© quâ€™un tel hÃ©ritage soit transmis par une femme et couronnÃ© un autre prÃ©tendant, Philippe. Neuf annÃ©es plus tard, la guerre a Ã©clatÃ©...;;;;;;;;;;;;x
-TITLE_CREATION_HAS_OWNER;This title already exists!;Toute crÃ©ation ou usurpation de titres sera impossible tant que vous dÃ©tiendrez un titre temporaire.;;;;;;;;;;;;x
-FEUDAL_TAX;Feudal Tax;ImpÃ´ts fÃ©odaux;;;;;;;;;;;;x
-CITY_TAX;City Tax;ImpÃ´ts des citÃ©s;;;;;;;;;;;;x
-CHURCH_TAX;Church Tax;ImpÃ´ts clÃ©ricaux;;;;;;;;;;;;x
+BM_FATE_OF_ENGLAND_DESC;September 20, 1066 AD. King Harold Godwinson rushes to defend the shores of England against the forces of his traitorous brother Tostig and the Norwegian king Harald IV, nicknamed 'Hårdråde' (Hard Ruler). Meanwhile, William, Duke of Normandy, is about to launch his own invasion of England, sanctioned by Pope Alexander II himself. Saxon, Norse, or Norman - who shall rule Albion?;20 septembre 1066. Le roi Harold Godwinson se précipite pour défendre les rivages de l’Angleterre contre les forces de son traître de frère, Tostig, et du roi norvégien Harald III, surnommé 'Hårdråde'. Entre temps, Guillaume, duc de Normandie, s’apprête, lui aussi, à envahir l’Angleterre, sanctionné par le Pape Alexandre II en personne. Saxons, Norvégiens ou Normands… Qui régnera sur Albion ?;;;;;;;;;;;;x
+BM_NORMAN_CONQUEST_DESC;Victorious at the hard-fought Battle of Hastings, William, Duke of Normandy, has proclaimed himself King of England. Displaced Saxon lords rage against the French speaking usurpers as fief after fief is given to William's loyal followers. In Anatolia, the Seljuk Turks under the great sultan Alp Arslan are about to invade the Byzantine Empire in a struggle that will determine the fate of Asia Minor...;Après avoir remporté la redoutable bataille d’Hastings, Guillaume, duc de Normandie, s’est autoproclamé roi d’Angleterre. Les seigneurs saxons sont fous de rage contre ces usurpateurs parlant français en voyant que leurs fiefs sont offerts, les uns après les autres, aux fidèles partisans de Guillaume. En Anatolie, les Turcs Seljuks, sous l’autorité du grand sultan Alp Arslan, s’apprêtent à envahir l’Empire byzantin et à livrer une bataille qui scellera le destin de l’Asie mineure...;;;;;;;;;;;;x
+BM_THIRD_CRUSADE_DESC;Jerusalem has fallen to the forces of the great infidel, Saladin, but Henry II of England, Philip II of France, and Holy Roman Emperor Frederick 'Barbarossa' have, in their righteous zeal, ended their petty disputes and stand ready to march against the Moor in the most powerful Crusade yet... Deus Vult!;Jérusalem est aux mains des forces du grand infidèle, Saladin, mais Henri II d’Angleterre, Philippe II de France et Frédéric 'Barberousse' du Saint Empire romain germanique ont mis fin aux querelles qui les opposaient pour unir leurs forces contre les Maures au cours de la plus puissante des croisades... Deus Vult !;;;;;;;;;;;;x
+BM_100_YEARS_WAR_DESC;The death of French King Charles IV in 1328 with no immediate heir triggered a succession dispute that would last for over a hundred years. Edward III of England was the closest living male heir, but the French nobility, balking at the prospect of a foreign king, claimed the line could not pass through a woman, and crowned another pretender - Philip. Nine years later, war broke out...;En 1328, la mort du roi français Charles IV, sans héritier immédiat, a donné lieu à une guerre de succession de plus d’un siècle. Édouard III d’Angleterre était son héritier le plus proche, mais la noblesse française, horrifiée par l’idée de voir un étranger monter sur le trône, a refusé qu’un tel héritage soit transmis par une femme et couronné un autre prétendant, Philippe. Neuf années plus tard, la guerre a éclaté...;;;;;;;;;;;;x
+TITLE_CREATION_HAS_OWNER;This title already exists!;Toute création ou usurpation de titres sera impossible tant que vous détiendrez un titre temporaire.;;;;;;;;;;;;x
+FEUDAL_TAX;Feudal Tax;Impôts féodaux;;;;;;;;;;;;x
+CITY_TAX;City Tax;Impôts des cités;;;;;;;;;;;;x
+CHURCH_TAX;Church Tax;Impôts cléricaux;;;;;;;;;;;;x
 FROM_DEMESNE;From Demesne;Personnelles;;;;;;;;;;;;x
 FROM_VASSALS;From Vassals;Ban;;;;;;;;;;;;x
 MONTHLY_PIETY_OTHER;Monthly [Religion.GetPietyName];[Religion.GetPietyName] mensuelle;;;;;;;;;;;;x
 RAISE_DEMESNE;Raise Personal Levies;Lever les troupes personnelles;;;;;;;;;;;;x
-DISMISS_DEMESNE;Dismiss Personal Levies;DÃ©mobiliser les troupes personnelles;;;;;;;;;;;;x
+DISMISS_DEMESNE;Dismiss Personal Levies;Démobiliser les troupes personnelles;;;;;;;;;;;;x
 nick_the_hammer;the Hammer;Martel;;;;;;;;;;;;x
-nick_priest_hater;Priest-Hater;l'Anti-prÃªtre;;;;;;;;;;;;x
+nick_priest_hater;Priest-Hater;l'Anti-prêtre;;;;;;;;;;;;x
 nick_the_quarreller;the Quarreller;le Hutin;;;;;;;;;;;;x
 TITLE_PIETY;Monthly [Player.Religion.GetPietyName];[Player.Religion.GetPietyName] mensuelle;;;;;;;;;;;;x
 title_prince_iranian;Shahzada;Chahzadeth;;;;;;;;;;;;x
 title_prince_female_iranian;Shahdokht;Chahdokht;;;;;;;;;;;;x
 title_court_jester;Court Jester;Bouffon;;;;;;;;;;;;x
-title_keeper_of_swans_desc;With Swan meat being without doubt the finest meat available from either beast or fowl, the need to ensure a steady supply of Swans is important. The post of Master of Swans carries a certain amount of prestige.;Le cygne Ã©tant indÃ©niablement la viande la plus fine qui soit, il est important dâ€™en avoir suffisamment Ã  disposition. Le titre de gardien des cygnes est aurÃ©olÃ© dâ€™un certain prestige.;;;;;;;;;;;;x
+title_keeper_of_swans_desc;With Swan meat being without doubt the finest meat available from either beast or fowl, the need to ensure a steady supply of Swans is important. The post of Master of Swans carries a certain amount of prestige.;Le cygne étant indéniablement la viande la plus fine qui soit, il est important d’en avoir suffisamment à disposition. Le titre de gardien des cygnes est auréolé d’un certain prestige.;;;;;;;;;;;;x
 title_master_of_the_hunt;Master of the Hunt;Veneur;;;;;;;;;;;;x
-title_grand_butler_desc;Although most of the household duties were passed over to servants, the butler had the right to pour the liege's wine when at his table. With the ability to grab the liege's ear at the same time, the butler was an important man.;Bien que la plupart des tÃ¢ches mÃ©nagÃ¨res revenaient aux serviteurs, le majordome avait le droit de servir du vin Ã  son suzerain lorsque celui-ci Ã©tait Ã  table, ce qui en faisait un personnage important.;;;;;;;;;;;;x
-title_cupbearer_desc;Poison is always a danger, so being entrusted with serving drinks is a great honor.;Lâ€™empoisonnement constitue un danger et se voir confier le privilÃ¨ge de servir Ã  boire est un grand honneur.;;;;;;;;;;;;x
-title_paramount_knight_desc;This paragon of chivalric virtue is the envy of the realm - every man wants to be like him and sees his friends as their friends;Ce modÃ¨le de vertu suscite lâ€™envie de tous les sujets du Royaume. Tous les hommes rÃªvent de lui ressembler et dâ€™avoir les mÃªmes amis.;;;;;;;;;;;;x
-title_despot_desc;Despot is the highest honorary title in the Byzantine Empire, second only to the Emperor. It can only be granted to close relatives, traditionally the oldest son.;Le despote est le plus haut titre honorifique de lâ€™Empire byzantin, aprÃ¨s celui dâ€™empereur. Seuls les proches parents, traditionnellement le fils aÃ®nÃ©, peuvent en bÃ©nÃ©ficier.;;;;;;;;;;;;x
-title_sebastokrator;Sebastokrator;SÃ©bastocrate;;;;;;;;;;;;x
-title_sebastokrator_desc;The title of Sebastokrator was created as an even higher honor than that of 'Caesar'. It can only be granted to close relatives of the Emperor.;Le titre de SÃ©bastokrator a Ã©tÃ© crÃ©Ã© Ã  des fins encore plus honorifique que celui de 'CÃ©sar'. Il est rÃ©servÃ© aux proches parents de lâ€™empereur.;;;;;;;;;;;;x
-title_caesar_desc;Originally the highest honor in the Roman Empire, the title of Caesar can now be awarded to anyone.;Plus haut titre de lâ€™Empire romain, le titre de CÃ©sar peut dÃ©sormais Ãªtre dÃ©cernÃ© Ã  tout le monde.;;;;;;;;;;;;x
-title_kouropalates_desc;Kouropalates - 'the One in Charge of the Palace' - is a very prestigious title in the Byzantine Empire.;Curopalate - 'celui qui a la charge du palais' est un prestigieux titre de lâ€™Empire byzantin.;;;;;;;;;;;;x
-title_anthypatos_desc;Anthypatos is Greek for Proconsul. However, the office no longer denotes a provincial governor but is purely honorary.;Anthypathos est un terme grec qui signifie proconsul. Toutefois, ce titre ne dÃ©signe plus un gouverneur provincial, et sâ€™avÃ¨re purement honorifique.;;;;;;;;;;;;x
-humble_desc;Humility, or 'Humilitas', is the seventh virtue and the opposite of Pride. Humble characters gain [Player.Religion.GetPietyName] where the proud gain Prestige. Humble characters tend to dislike prideful ones.;Lâ€™humilitÃ©, 'humilitas' en latin, est la septiÃ¨me vertu. Lâ€™humble travaille dur pour amÃ©liorer sa [Player.Religion.GetPietyName] et a tendance Ã  ne pas apprÃ©cier lâ€™orgueilleux.;;;;;;;;;;;;x
+title_grand_butler_desc;Although most of the household duties were passed over to servants, the butler had the right to pour the liege's wine when at his table. With the ability to grab the liege's ear at the same time, the butler was an important man.;Bien que la plupart des tâches ménagères revenaient aux serviteurs, le majordome avait le droit de servir du vin à son suzerain lorsque celui-ci était à table, ce qui en faisait un personnage important.;;;;;;;;;;;;x
+title_cupbearer_desc;Poison is always a danger, so being entrusted with serving drinks is a great honor.;L’empoisonnement constitue un danger et se voir confier le privilège de servir à boire est un grand honneur.;;;;;;;;;;;;x
+title_paramount_knight_desc;This paragon of chivalric virtue is the envy of the realm - every man wants to be like him and sees his friends as their friends;Ce modèle de vertu suscite l’envie de tous les sujets du Royaume. Tous les hommes rêvent de lui ressembler et d’avoir les mêmes amis.;;;;;;;;;;;;x
+title_despot_desc;Despot is the highest honorary title in the Byzantine Empire, second only to the Emperor. It can only be granted to close relatives, traditionally the oldest son.;Le despote est le plus haut titre honorifique de l’Empire byzantin, après celui d’empereur. Seuls les proches parents, traditionnellement le fils aîné, peuvent en bénéficier.;;;;;;;;;;;;x
+title_sebastokrator;Sebastokrator;Sébastocrate;;;;;;;;;;;;x
+title_sebastokrator_desc;The title of Sebastokrator was created as an even higher honor than that of 'Caesar'. It can only be granted to close relatives of the Emperor.;Le titre de Sébastokrator a été créé à des fins encore plus honorifique que celui de 'César'. Il est réservé aux proches parents de l’empereur.;;;;;;;;;;;;x
+title_caesar_desc;Originally the highest honor in the Roman Empire, the title of Caesar can now be awarded to anyone.;Plus haut titre de l’Empire romain, le titre de César peut désormais être décerné à tout le monde.;;;;;;;;;;;;x
+title_kouropalates_desc;Kouropalates - 'the One in Charge of the Palace' - is a very prestigious title in the Byzantine Empire.;Curopalate - 'celui qui a la charge du palais' est un prestigieux titre de l’Empire byzantin.;;;;;;;;;;;;x
+title_anthypatos_desc;Anthypatos is Greek for Proconsul. However, the office no longer denotes a provincial governor but is purely honorary.;Anthypathos est un terme grec qui signifie proconsul. Toutefois, ce titre ne désigne plus un gouverneur provincial, et s’avère purement honorifique.;;;;;;;;;;;;x
+humble_desc;Humility, or 'Humilitas', is the seventh virtue and the opposite of Pride. Humble characters gain [Player.Religion.GetPietyName] where the proud gain Prestige. Humble characters tend to dislike prideful ones.;L’humilité, 'humilitas' en latin, est la septième vertu. L’humble travaille dur pour améliorer sa [Player.Religion.GetPietyName] et a tendance à ne pas apprécier l’orgueilleux.;;;;;;;;;;;;x

@@ -248,13 +248,16 @@
 	}
 }
 218307 = {
-	name = JosÃ©phine
+	name = Joséphine
 	dynasty = 1060001 #Martin
 	female = yes
 	dna= "bimabsaicci"
 	properties="cc0cik00000"
 	religion = catholic
 	culture = occitan
+
+	mother = 218306
+	father = 218305
 	
 	diplomacy = 5
 	martial = 5
@@ -266,6 +269,7 @@
 	
 	1065.08.23 = {
 		birth = yes
+		employer = 218305
 	}
 	1099.1.2 = {
 		death = yes
