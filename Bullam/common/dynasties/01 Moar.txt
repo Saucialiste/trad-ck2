@@ -1,0 +1,26 @@
+25061=
+{
+	name="Carlovin"
+	culture="old_frankish"
+	religion="catholic"
+	coat_of_arms=
+	{
+		data=
+		{
+0 5 0 35 0 0 0 			}
+		religion="catholic"
+	}
+	used_for_random=no
+}
+1060001 = {
+	name="Martin"
+	culture = occitan
+}
+1060002 = {
+	name="Gagnon"
+	culture = norman
+}
+1060003 = {
+	name="Valiquette"
+	culture = norman
+}
